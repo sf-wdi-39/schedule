@@ -76,6 +76,9 @@ Time | Monday, Tuesday, Thursday  | Wednesday | Friday
 
 
 **Slack Contacts**  
+
 Patricia: @patricia.anderson
-Jean: @jean  
+
+Jean: @jean
+
 Cory: @cory.fauver
