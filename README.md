@@ -6,7 +6,7 @@
 
 Schedule for WDI 39
 
-#### Week 1 - Project 3
+#### Week 1 - Fundamentals Review
 <table><thead>
 <tr>
 <th>June 26- 30</th>
