@@ -7,61 +7,65 @@
 Schedule for WDI 39
 
 #### Week 2
-<table><thead>
-<tr>
-<th>July 5 - 7</th>
-<th> Monday </th>
-<th> Tuesday </th>
-<th> Wednesday </th>
-<th> Thursday </th>
-<th> Friday </th>
-</tr>
-</thead><tbody>
-<tr>
-<td><strong>9:15am - 10:20am </strong></td>
-<td>Holiday!</td>
-<td>Holiday!</td>
-<td>Iterator methods</td>
-<td>HTML forms</td>
-<td>Palindrome algorithm </td>
-</tr>
+<table>
+  <thead>
+    <tr>
+      <th>July 5 - 7</th>
+      <th> Monday </th>
+      <th> Tuesday </th>
+      <th> Wednesday </th>
+      <th> Thursday </th>
+      <th> Friday </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>9:15am - 10:20am </strong></td>
+      <td>Holiday!</td>
+      <td>Holiday!</td>
+      <td><a href="https://github.com/SF-WDI-LABS/iterator-methods">Callbacks and iterator methods</a></td>
+      <!-- https://github.com/SF-WDI-LABS/laundry-lab ? -->
+      <td><a href="https://github.com/SF-WDI-LABS/html-forms">HTML forms</a></td>
+      <td><a href="https://github.com/SF-WDI-LABS/js-algorithms-drills/tree/master/palindromes">Palindrome algorithm</a> </td>
+    </tr>
 
-<tr>
-<td><strong>10:30am - 12:30pm </strong></td>
-<td>Holiday!</td>
-<td>Holiday!</td>
-<td> Callbacks </td>
-<td> HTML forms </td>
-<td> Review </td>
-</tr>
+    <tr>
+      <td><strong>10:30am - 12:30pm </strong></td>
+      <td>Holiday!</td>
+      <td>Holiday!</td>
+      <td><a href="https://github.com/SF-WDI-LABS/iterator-methods"> Callbacks and iterator methods</a> </td>
+      <td><a href="https://github.com/SF-WDI-LABS/html-forms"> HTML forms </a></td>
+      <td> Template Literals </td>
+    </tr>
 
-<tr>
-<td><strong>1:30pm - 2:50pm </strong></td>
-<td>Holiday!</td>
-<td>Holiday!</td>
-<td>JS Objects</td>
-<td>AJAX</td>
-<td>3rd Party APIs</td>
+    <tr>
+      <td><strong>1:30pm - 2:50pm </strong></td>
+      <td>Holiday!</td>
+      <td>Holiday!</td>
+      <td><a href="https://github.com/SF-WDI-LABS/js-objects">JS Objects</a></td>
+      <td><a href="https://github.com/SF-WDI-LABS/intro-ajax">AJAX</a></td>
+      <td><a href="https://github.com/SF-WDI-LABS/geoquakes">3rd Party APIs</a></td>
 
-</tr>
-<tr>
-<td><strong>3:00pm - 4:30pm </strong></td>
-<td>Holiday!</td>
-<td>Holiday!</td>
-<td>JS Objects / Outcomes?</td>
-<td> AJAX </td>
-<td>Geoquakes</td>
-</tr>
+    </tr>
+    <tr>
+      <td><strong>3:00pm - 4:30pm </strong></td>
+      <td>Holiday!</td>
+      <td>Holiday!</td>
+      <td><a href="https://github.com/SF-WDI-LABS/js-objects">JS Objects / Outcomes?</a></td>
+      <td> <a href="https://github.com/SF-WDI-LABS/intro-ajax">AJAX</a> </td>
+      <td><a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes</a></td>
+    </tr>
 
-<tr>
-<td><strong>Training / Office Hours</strong></td>
-<td><a href="homework/week-02.md">Holiday!</a></td>
-<td><a href="homework/week-02.md">Holiday!</a></td>
-<td><a href="homework/week-02.md">Homework</a></td>
-<td><a href="homework/week-02.md">Homework</a></td>
-<td><a href="homework/week-02.md">Homework</a></td>
-</tr>
-</tbody></table>
+    <tr>
+    <td><strong>Training / Office Hours</strong></td>
+    <td><a href="homework/week-02.md">Holiday!</a></td>
+    <td><a href="homework/week-02.md">Holiday!</a></td>
+    <td><a href="homework/week-02.md">Homework</a></td>
+    <td><a href="homework/week-02.md">Homework</a></td>
+    <td><a href="homework/week-02.md">Homework</a></td>
+    </tr>
+  </tbody>
+</table>
 
 #### Week 1 - Fundamentals Review
 <table><thead>
