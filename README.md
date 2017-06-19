@@ -4,8 +4,8 @@
 
 
 Schedule for WDI 39
-<!--
-#### Week 12 - Project 3
+
+#### Week 1 - Project 3
 <table><thead>
 <tr>
 <th>June 26- 30</th>
@@ -58,4 +58,4 @@ Schedule for WDI 39
 <td><a href="https://github.com/sf-wdi-36/project-03">Project 3</a></td>
 </tr>
 </tbody></table>
--->
+
