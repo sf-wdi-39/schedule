@@ -1,7 +1,3 @@
-<p align="center">
-<img src="PhotoFunia-1497888882.gif" >
-</p>
-
 # SF WDI 39 Schedule
 
 Schedule for WDI 39
@@ -32,14 +28,14 @@ Schedule for WDI 39
 <td><a href="https://github.com/sf-wdi-labs/html-css-review">HTML/CSS Review (JW)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/js-control-flow">Control Flow (CF)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/js-functions">Functions (JW)</a></td>
-<td>Review</td>
+<td>Review (JW)</td>
 </tr>
 
 <tr>
 <td><strong>1:30pm - 2:50pm</strong></td>
 <td><a href="https://github.com/SF-WDI-LABS/command-line">Command Line Tools (CF)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/git-github">GitHub Workflow (CF)</a></td>
-<td><a href="https://github.com/SF-WDI-LABS/dev-tools">Chrome Dev Tools</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/dev-tools">Chrome Dev Tools </a></td>
 <td><a href="https://github.com/SF-WDI-LABS/dom-manipulation">DOM Manipulation (CF)</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/bootstrap">Bootstrap (CF)</a></td>
 </tr>
@@ -62,6 +58,11 @@ Schedule for WDI 39
 <td><a href="homework/week-01.md">Homework</a></td>
 </tr>
 </tbody></table>
+
+
+<p align="center">
+<img src="PhotoFunia-1497888882.gif" >
+</p>
 
 #### Generic Schedule Overview
 
