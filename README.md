@@ -1,4 +1,4 @@
-<p align="center"> 
+<p align="center">
 <img src="PhotoFunia-1497888882.gif" >
 </p>
 
@@ -21,36 +21,36 @@ Schedule for WDI 39
 <td><strong>9:15am - 10:20am Module 1</strong></td>
 <td>Orientation</td>
 <td><a href="https://github.com/SF-WDI-LABS/the-client-the-server-and-you/blob/master/README.md">Client, Server, and You</a></td>
-<td>Algorithm</td>
-<td>Project 3 Presentations</td>
-<td>Graduation/Feedback</td>
+<td><a href="https://github.com/sf-wdi-labs/js-data-types">JS Data Types</a></td>
+<td><a href="https://github.com/sf-wdi-labs/js-functions">Functions</a></td>
+<td>Personal Site Show && Tell</td>
 </tr>
 
 <tr>
 <td><strong>10:30am - 12:30pm Module 2</strong></td>
 <td>Breaking of Ice</td>
 <td><a href="https://github.com/sf-wdi-labs/html-css-review">HTML/CSS Review</a></td>
-<td><a href="https://github.com/sf-wdi-labs/html-css-review">HTML/CSS Review</a></td>
-<td>Project 3 Presentations</td>
-<td>Graduation/Feedback</td>
+<td><a href="https://github.com/sf-wdi-labs/js-control-flow">Control Flow</a></td>
+<td><a href="https://github.com/sf-wdi-labs/js-functions">Functions</a></td>
+<td>Review</td>
 </tr>
 
 <tr>
 <td><strong>1:30pm - 2:50pm Module 3</strong></td>
 <td><a href="https://github.com/SF-WDI-LABS/command-line">Command Line Tools</a></td>
-<td><a href="https://github.com/sf-wdi-36/project-03">Project 3</a></td>
-<td><a href="https://github.com/sf-wdi-36/project-03">Project 3</a></td>
-<td>Project 3 Presentations</td>
-<td>Stuff</td>
-
+<td><a href="https://github.com/sf-wdi-labs/git-github">GitHub Workflow</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/dev-tools">Chrome Dev Tools</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/dom-manipulation">DOM Manipulation</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/bootstrap">Bootstrap</a></td>
 </tr>
+
 <tr>
 <td><strong>3:00pm - 4:30pm Module 4</strong></td>
 <td><a href="https://github.com/sf-wdi-labs/installfest">Installfest</a></td>
-<td><a href="https://github.com/sf-wdi-36/project-03">Project 3</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/personal-portfolio">Personal Site</a></td>
 <td>Outcomes (Mercedes)</td>
-<td>Graduation/Feedback</td>
-<td>Graduation/Feedback</td>
+<td><a href="https://github.com/sf-wdi-labs/dom-events-jquery"></a>DOM Events</td>
+<td><a href="https://github.com/SF-WDI-LABS/tic-tac-toe"</a>TicTacToe</td>
 </tr>
 
 <tr>
