@@ -2,7 +2,9 @@
 # SF WDI 39 Schedule
 
 Schedule for WDI 39
+
 <!--
+
 #### Week 2
 
 <table>
@@ -60,6 +62,7 @@ Schedule for WDI 39
     </tr>
   </tbody>
 </table>
+
 -->
 
 #### Week 1
