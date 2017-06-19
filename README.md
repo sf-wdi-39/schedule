@@ -72,7 +72,7 @@ Schedule for WDI 39
   12:30 - 1:30 Lunch         | Lunch          | Lunch
   1:30 - 2:50 third block      | 1:30 - 3:30 IA leads lab   | 1:30 - 2:50 third block
   3:00 - 4:15 4th block     | 3:30 - 5 Outcomes  | 3:00 - 4:15 4th block
-4:15 - 5:00 | Office Hours   | - | -
+4:15 - 5:00 Office Hours   | - | -
 
 
 **Slack Contacts**  
