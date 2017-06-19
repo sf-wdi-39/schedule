@@ -20,7 +20,7 @@ Schedule for WDI 39
 <tr>
 <td><strong>9:15am - 10:20am Module 1</strong></td>
 <td>Orientation</td>
-<td>Algorithm</td>
+<td><a href="https://github.com/SF-WDI-LABS/the-client-the-server-and-you/blob/master/README.md">Client, Server, and You</a></td>
 <td>Algorithm</td>
 <td>Project 3 Presentations</td>
 <td>Graduation/Feedback</td>
@@ -29,8 +29,8 @@ Schedule for WDI 39
 <tr>
 <td><strong>10:30am - 12:30pm Module 2</strong></td>
 <td>Breaking of Ice</td>
-<td><a href="https://github.com/sf-wdi-36/project-03">Project 3</a></td>
-<td><a href="https://github.com/sf-wdi-36/project-03">Project 3</a></td>
+<td><a href=""></a></td>
+<td><a href="https://github.com/sf-wdi-labs/html-css-review">HTML/CSS Review</a></td>
 <td>Project 3 Presentations</td>
 <td>Graduation/Feedback</td>
 </tr>
