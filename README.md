@@ -18,7 +18,7 @@ Schedule for WDI 39
 </tr>
 </thead><tbody>
 <tr>
-<td><strong>9:15am - 10:20am Module 1</strong></td>
+<td><strong>9:15am - 10:20am</strong></td>
 <td>Orientation</td>
 <td><a href="https://github.com/SF-WDI-LABS/the-client-the-server-and-you/blob/master/README.md">Client, Server, and You</a></td>
 <td><a href="https://github.com/sf-wdi-labs/js-data-types">JS Data Types</a></td>
@@ -27,7 +27,7 @@ Schedule for WDI 39
 </tr>
 
 <tr>
-<td><strong>10:30am - 12:30pm Module 2</strong></td>
+<td><strong>10:30am - 12:30pm</strong></td>
 <td>Breaking of Ice</td>
 <td><a href="https://github.com/sf-wdi-labs/html-css-review">HTML/CSS Review</a></td>
 <td><a href="https://github.com/sf-wdi-labs/js-control-flow">Control Flow</a></td>
@@ -36,7 +36,7 @@ Schedule for WDI 39
 </tr>
 
 <tr>
-<td><strong>1:30pm - 2:50pm Module 3</strong></td>
+<td><strong>1:30pm - 2:50pm</strong></td>
 <td><a href="https://github.com/SF-WDI-LABS/command-line">Command Line Tools</a></td>
 <td><a href="https://github.com/sf-wdi-labs/git-github">GitHub Workflow</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/dev-tools">Chrome Dev Tools</a></td>
@@ -45,7 +45,7 @@ Schedule for WDI 39
 </tr>
 
 <tr>
-<td><strong>3:00pm - 4:30pm Module 4</strong></td>
+<td><strong>3:00pm - 4:30pm</strong></td>
 <td><a href="https://github.com/sf-wdi-labs/installfest">Installfest</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/personal-portfolio">Personal Site</a></td>
 <td>Outcomes (Mercedes)</td>
@@ -65,14 +65,14 @@ Schedule for WDI 39
 
 #### Generic Schedule Overview
 
-Time | Monday, Tuesday, Thursday  | Wednesday | Friday
------ | ------------------ | ----- | ----
-9:15 - 10:20  | Module 1   | Module 1     | Module 1
-10:30 - 12:30| Module 2   | Module 2     | Module 2
-12:30 - 1:30 | Lunch         | Lunch          | Lunch
-1:30 - 2:50 | Module 3      | Module 3   | Module 3
-3:00 - 4:30 | Module 4      | Outcomes (3:30 - 5)  | Module 4
-4:30 - 5:00 | Office Hours   | - | -
+ Monday, Tuesday, Thursday  | Wednesday | Friday
+  ------------------ | ----- | ----
+   9:15 - 10:20 first block   |9:15 - 10:20 first block     | 9:15 - 10:20 first block
+ 10:30 - 12:30 second block    | 10:30 - 12:30 second block     | 10:30 - 12:30 second block
+  12:30 - 1:30 Lunch         | Lunch          | Lunch
+  1:30 - 2:50 third block      | 1:30 - 3:30 IA leads lab   | 1:30 - 2:50 third block
+  3:00 - 4:15 4th block     | Outcomes (3:30 - 5)  | 3:00 - 4:15 4th block
+4:15 - 5:00 | Office Hours   | - | -
 
 
 **Slack Contacts**  
