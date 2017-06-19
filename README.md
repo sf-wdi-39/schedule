@@ -24,34 +24,34 @@ Schedule for WDI 39
       <td><strong>9:15am - 10:20am </strong></td>
       <td>Holiday!</td>
       <td>Holiday!</td>
-      <td><a href="https://github.com/SF-WDI-LABS/iterator-methods">Callbacks and iterator methods</a></td>
+      <td><a href="https://github.com/SF-WDI-LABS/iterator-methods">Callbacks and iterator methods (JW)</a></td>
       <!-- https://github.com/SF-WDI-LABS/laundry-lab ? -->
-      <td><a href="https://github.com/SF-WDI-LABS/html-forms">HTML forms</a></td>
-      <td><a href="https://github.com/SF-WDI-LABS/js-algorithms-drills/tree/master/palindromes">Palindrome algorithm</a> </td>
+      <td><a href="https://github.com/SF-WDI-LABS/html-forms">HTML forms (CF)</a></td>
+      <td><a href="https://github.com/SF-WDI-LABS/js-algorithms-drills/tree/master/palindromes">Palindrome algorithm ()</a> </td>
     </tr>
     <tr>
       <td><strong>10:30am - 12:30pm </strong></td>
       <td>Holiday!</td>
       <td>Holiday!</td>
-      <td><a href="https://github.com/SF-WDI-LABS/iterator-methods"> Callbacks and iterator methods</a> </td>
-      <td><a href="https://github.com/SF-WDI-LABS/html-forms"> HTML forms </a></td>
-      <td> Template Literals </td>
+      <td><a href="https://github.com/SF-WDI-LABS/iterator-methods"> Callbacks and iterator methods (JW)</a> </td>
+      <td><a href="https://github.com/SF-WDI-LABS/html-forms"> HTML forms (CF) </a></td>
+      <td> Template Literals (CF) </td>
     </tr>
     <tr>
       <td><strong>1:30pm - 2:50pm </strong></td>
       <td>Holiday!</td>
       <td>Holiday!</td>
-      <td><a href="https://github.com/SF-WDI-LABS/js-objects">JS Objects</a></td>
-      <td><a href="https://github.com/SF-WDI-LABS/intro-ajax">AJAX</a></td>
-      <td><a href="https://github.com/SF-WDI-LABS/geoquakes">3rd Party APIs</a></td>
+      <td><a href="https://github.com/SF-WDI-LABS/js-objects">JS Objects (JW)</a></td>
+      <td><a href="https://github.com/SF-WDI-LABS/intro-ajax">AJAX (CF)</a></td>
+      <td><a href="https://github.com/SF-WDI-LABS/geoquakes">3rd Party APIs (CF)</a></td>
     </tr>
     <tr>
       <td><strong>3:00pm - 4:30pm </strong></td>
       <td>Holiday!</td>
       <td>Holiday!</td>
-      <td><a href="https://github.com/SF-WDI-LABS/js-objects">JS Objects / Outcomes?</a></td>
-      <td> <a href="https://github.com/SF-WDI-LABS/intro-ajax">AJAX</a> </td>
-      <td><a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes</a></td>
+      <td><a href="https://github.com/SF-WDI-LABS/js-objects">JS Objects (JW)</a></td>
+      <td> <a href="https://github.com/SF-WDI-LABS/intro-ajax">AJAX (CF)</a> </td>
+      <td><a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes (CF)</a></td>
     </tr>
     <tr>
       <td><strong>Training / Office Hours</strong></td>
