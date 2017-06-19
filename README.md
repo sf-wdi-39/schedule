@@ -1,4 +1,8 @@
-# schedule-39
+# WDI 39 Schedule
+
+![banner](PhotoFunia-1497888882.gif)
+
+
 Schedule for WDI 39
 <!--
 #### Week 12 - Project 3
