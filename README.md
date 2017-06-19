@@ -1,7 +1,7 @@
 # WDI 39 Schedule
-
-![banner](PhotoFunia-1497888882.gif)
-
+<p align="center"> 
+<img src="PhotoFunia-1497888882.gif" >
+</p>
 
 Schedule for WDI 39
 
