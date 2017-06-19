@@ -1,10 +1,67 @@
-<p align="center"> 
+<p align="center">
 <img src="PhotoFunia-1497888882.gif" >
 </p>
 
 # SF WDI 39 Schedule
 
 Schedule for WDI 39
+
+#### Week 2
+<table><thead>
+<tr>
+<th>July 5 - 7</th>
+<th> Monday </th>
+<th> Tuesday </th>
+<th> Wednesday </th>
+<th> Thursday </th>
+<th> Friday </th>
+</tr>
+</thead><tbody>
+<tr>
+<td><strong>9:15am - 10:20am </strong></td>
+<td>Holiday!</td>
+<td>Holiday!</td>
+<td>Iterator methods</td>
+<td>HTML forms</td>
+<td>Palindrome algorithm </td>
+</tr>
+
+<tr>
+<td><strong>10:30am - 12:30pm </strong></td>
+<td>Holiday!</td>
+<td>Holiday!</td>
+<td> Callbacks </td>
+<td> HTML forms </td>
+<td> Review </td>
+</tr>
+
+<tr>
+<td><strong>1:30pm - 2:50pm </strong></td>
+<td>Holiday!</td>
+<td>Holiday!</td>
+<td>JS Objects</td>
+<td>AJAX</td>
+<td>3rd Party APIs</td>
+
+</tr>
+<tr>
+<td><strong>3:00pm - 4:30pm </strong></td>
+<td>Holiday!</td>
+<td>Holiday!</td>
+<td>JS Objects / Outcomes?</td>
+<td> AJAX </td>
+<td>Geoquakes</td>
+</tr>
+
+<tr>
+<td><strong>Training / Office Hours</strong></td>
+<td><a href="homework/week-02.md">Holiday!</a></td>
+<td><a href="homework/week-02.md">Holiday!</a></td>
+<td><a href="homework/week-02.md">Homework</a></td>
+<td><a href="homework/week-02.md">Homework</a></td>
+<td><a href="homework/week-02.md">Homework</a></td>
+</tr>
+</tbody></table>
 
 #### Week 1 - Fundamentals Review
 <table><thead>
