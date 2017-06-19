@@ -24,7 +24,6 @@ Schedule for WDI 39
       <td>Holiday!:us:</td>
       <td>Holiday!:us:</td>
       <td><a href="https://github.com/SF-WDI-LABS/iterator-methods">Callbacks and iterator methods (JW)</a></td>
-      <!-- https://github.com/SF-WDI-LABS/laundry-lab ? -->
       <td><a href="https://github.com/SF-WDI-LABS/html-forms">HTML forms (CF)</a></td>
       <td><a href="https://github.com/SF-WDI-LABS/js-algorithms-drills/tree/master/palindromes">Palindrome algorithm ()</a> </td>
     </tr>
@@ -62,7 +61,6 @@ Schedule for WDI 39
     </tr>
   </tbody>
 </table>
-
 -->
 
 #### Week 1
