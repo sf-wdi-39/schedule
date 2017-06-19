@@ -7,6 +7,7 @@
 Schedule for WDI 39
 
 #### Week 2
+
 <table>
   <thead>
     <tr>
@@ -28,7 +29,6 @@ Schedule for WDI 39
       <td><a href="https://github.com/SF-WDI-LABS/html-forms">HTML forms</a></td>
       <td><a href="https://github.com/SF-WDI-LABS/js-algorithms-drills/tree/master/palindromes">Palindrome algorithm</a> </td>
     </tr>
-
     <tr>
       <td><strong>10:30am - 12:30pm </strong></td>
       <td>Holiday!</td>
@@ -37,7 +37,6 @@ Schedule for WDI 39
       <td><a href="https://github.com/SF-WDI-LABS/html-forms"> HTML forms </a></td>
       <td> Template Literals </td>
     </tr>
-
     <tr>
       <td><strong>1:30pm - 2:50pm </strong></td>
       <td>Holiday!</td>
@@ -45,7 +44,6 @@ Schedule for WDI 39
       <td><a href="https://github.com/SF-WDI-LABS/js-objects">JS Objects</a></td>
       <td><a href="https://github.com/SF-WDI-LABS/intro-ajax">AJAX</a></td>
       <td><a href="https://github.com/SF-WDI-LABS/geoquakes">3rd Party APIs</a></td>
-
     </tr>
     <tr>
       <td><strong>3:00pm - 4:30pm </strong></td>
@@ -55,14 +53,13 @@ Schedule for WDI 39
       <td> <a href="https://github.com/SF-WDI-LABS/intro-ajax">AJAX</a> </td>
       <td><a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes</a></td>
     </tr>
-
     <tr>
-    <td><strong>Training / Office Hours</strong></td>
-    <td><a href="homework/week-02.md">Holiday!</a></td>
-    <td><a href="homework/week-02.md">Holiday!</a></td>
-    <td><a href="homework/week-02.md">Homework</a></td>
-    <td><a href="homework/week-02.md">Homework</a></td>
-    <td><a href="homework/week-02.md">Homework</a></td>
+      <td><strong>Training / Office Hours</strong></td>
+      <td><a href="homework/week-02.md">Holiday!</a></td>
+      <td><a href="homework/week-02.md">Holiday!</a></td>
+      <td><a href="homework/week-02.md">Homework</a></td>
+      <td><a href="homework/week-02.md">Homework</a></td>
+      <td><a href="homework/week-02.md">Homework</a></td>
     </tr>
   </tbody>
 </table>
