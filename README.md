@@ -2,7 +2,7 @@
 <img src="PhotoFunia-1497888882.gif" >
 </p>
 
-# SF WDI 39 Schedule <3
+# SF WDI 39 Schedule
 
 Schedule for WDI 39
 
