@@ -51,7 +51,7 @@ Schedule for WDI 39
 </tr>
 <tr>
 <td><strong>Training / Office Hours</strong></td>
-<td><a href="https://github.com/sf-wdi-36/project-03">Project 3</a></td>
+<td><a href="homework/week-01.md">Homework</a></td>
 <td><a href="https://github.com/sf-wdi-36/project-03">Project 3</a></td>
 <td><a href="https://github.com/sf-wdi-36/project-03">Project 3</a></td>
 <td><a href="https://github.com/sf-wdi-36/project-03">Project 3</a></td>
