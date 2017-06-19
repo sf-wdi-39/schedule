@@ -24,6 +24,7 @@ Schedule for WDI 39
 <td>Project 3 Presentations</td>
 <td>Graduation/Feedback</td>
 </tr>
+
 <tr>
 <td><strong>10:30am - 12:30pm Module 2</strong></td>
 <td><a href="https://github.com/sf-wdi-36/project-03">Project 3</a></td>
@@ -32,6 +33,7 @@ Schedule for WDI 39
 <td>Project 3 Presentations</td>
 <td>Graduation/Feedback</td>
 </tr>
+
 <tr>
 <td><strong>1:30pm - 2:50pm Module 3</strong></td>
 <td><a href="homework/week-01.md">Project 3</a></td>
@@ -49,6 +51,7 @@ Schedule for WDI 39
 <td>Graduation/Feedback</td>
 <td>Graduation/Feedback</td>
 </tr>
+
 <tr>
 <td><strong>Training / Office Hours</strong></td>
 <td><a href="homework/week-01.md">Homework</a></td>
@@ -59,3 +62,19 @@ Schedule for WDI 39
 </tr>
 </tbody></table>
 
+#### Generic Schedule Overview
+
+Time | Monday, Tuesday, Thursday  | Wednesday | Friday
+----- | ------------------ | ----- | ----
+9:17 - 10:20  | Module 1   | Module 1     | Module 1
+10:30 - 12:30| Module 2   | Module 2     | Module 2
+12:30 - 1:30 | Lunch         | Lunch          | Lunch
+1:30 - 2:50 | Module 3      | Module 3   | Module 3
+3:00 - 4:30 | Module 4      | Outcomes  | Begin Weekend Lab
+4:30 - 5:00 | Office Hours   | - | -
+
+
+**Slack Contacts**  
+Patricia: @patricia.anderson
+Jean: @jean  
+Cory: @cory.fauver
