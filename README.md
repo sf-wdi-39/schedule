@@ -63,6 +63,63 @@ Schedule for WDI 39
 </tr>
 </tbody></table>
 
+#### Week 3 - OOP and Express Intro
+<table><thead>
+<tr>
+<th>July 10 - 14</th>
+<th>Day 1</th>
+<th>Day 2</th>
+<th>Day 3</th>
+<th>Day 4</th>
+<th>Day  5</th>
+</tr>
+</thead><tbody>
+<tr>
+<td><strong>9:15am - 10:20am</strong></td>
+<td><a href="https://github.com/SF-WDI-LABS/js-oop-flower-power">OOP</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/js-algorithms-drills/tree/master/duplicate-in-array">Algorithm</a></td>
+<td>Project 0 Science Fair</td>
+<td><a href="https://github.com/SF-WDI-LABS/software-development-best-practices">Software Best Practice or Algo</a></td>
+<td>Algo/Review</td>
+</tr>
+
+<tr>
+<td><strong>10:30am - 12:30pm</strong></td>
+<td><a href="https://github.com/SF-WDI-LABS/js-oop-flower-power">OOP</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/project-00">Project 0</a></td>
+<td>Algo</td>
+<td><a href="https://github.com/sf-wdi-labs/express">Express Intro</a></td>
+<td><a href="https://github.com/sf-wdi-labs/test-driven-todo-api">ToDo Lab</a></td>
+</tr>
+
+<tr>
+<td><strong>1:30pm - 2:50pm</strong></td>
+<td><a href="https://github.com/SF-WDI-LABS/oop-game-training">OOP drills</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/project-00">Project 0</a></td>
+<td>Review and Pair Debugging</td>
+<td><a href="https://github.com/sf-wdi-labs/express-dynamic-routes">Express Routes && Params</a></td>
+<td><a href="https://github.com/sf-wdi-labs/test-driven-todo-api">ToDo Lab</a></td>
+</tr>
+
+<tr>
+<td><strong>3:00pm - 4:30pm</strong></td>
+<td><a href="https://github.com/SF-WDI-LABS/project-00">Project 0 intro</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/project-00">Project 0</a></td>
+<td>Outcomes (Mercedes)</td>
+<td><a href="https://github.com/sf-wdi-labs/express-dynamic-routes">Express Routes && Params</a></td>
+<td><a href="https://github.com/sf-wdi-labs/test-driven-todo-api">ToDo Lab</a></td>
+</tr>
+
+<tr>
+<td><strong>Training / Office Hours</strong></td>
+<td><a href="homework/week-03.md">Homework</a></td>
+<td><a href="homework/week-03.md">Homework</a></td>
+<td><a href="homework/week-03.md">Homework</a></td>
+<td><a href="homework/week-03.md">Homework</a></td>
+<td><a href="homework/week-03.md">Homework</a></td>
+</tr>
+</tbody></table>
+
 #### Generic Schedule Overview
 
  Monday, Tuesday, Thursday  | Wednesday | Friday
