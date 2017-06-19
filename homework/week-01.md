@@ -4,6 +4,9 @@ The evening trainings and readings below will help you solidify work so far and/
 
 **Monday**
 
+* Fundamentals Check-in
+* [Optional: command line mystery](https://github.com/SF-WDI-LABS/command-line-mystery)
+
 **Tuesday**
 
 **Wednesday**
