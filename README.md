@@ -29,7 +29,7 @@ Schedule for WDI 39
 <tr>
 <td><strong>10:30am - 12:30pm Module 2</strong></td>
 <td>Breaking of Ice</td>
-<td><a href=""></a></td>
+<td><a href="https://github.com/sf-wdi-labs/html-css-review">HTML/CSS Review</a></td>
 <td><a href="https://github.com/sf-wdi-labs/html-css-review">HTML/CSS Review</a></td>
 <td>Project 3 Presentations</td>
 <td>Graduation/Feedback</td>
