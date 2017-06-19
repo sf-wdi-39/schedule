@@ -1,6 +1,3 @@
-<p align="center">
-<img src="PhotoFunia-1497888882.gif" >
-</p>
 
 # SF WDI 39 Schedule
 
@@ -72,43 +69,43 @@ Schedule for WDI 39
 <th>Day 2</th>
 <th>Day 3</th>
 <th>Day 4</th>
-<th>Day  5</th>
+<th>Day 5</th>
 </tr>
 </thead><tbody>
 <tr>
-<td><strong>9:15am - 10:20am Module 1</strong></td>
-<td>Orientation</td>
-<td><a href="https://github.com/SF-WDI-LABS/the-client-the-server-and-you/blob/master/README.md">Client, Server, and You</a></td>
-<td>Algorithm</td>
-<td>Project 3 Presentations</td>
-<td>Graduation/Feedback</td>
+<td><strong>9:15am - 10:20am</strong></td>
+<td>Orientation (ALL) </td>
+<td><a href="https://github.com/SF-WDI-LABS/the-client-the-server-and-you/blob/master/README.md">Client, Server, and You (JW) </a></td>
+<td><a href="https://github.com/sf-wdi-labs/js-data-types">JS Data Types (JW)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/js-functions">Functions (JW)</a></td>
+<td>Personal Site Show && Tell (ALL)</td>
 </tr>
 
 <tr>
-<td><strong>10:30am - 12:30pm Module 2</strong></td>
-<td>Breaking of Ice</td>
-<td><a href="https://github.com/sf-wdi-labs/html-css-review">HTML/CSS Review</a></td>
-<td><a href="https://github.com/sf-wdi-labs/html-css-review">HTML/CSS Review</a></td>
-<td>Project 3 Presentations</td>
-<td>Graduation/Feedback</td>
+<td><strong>10:30am - 12:30pm</strong></td>
+<td>Breaking of Ice (ALL)</td>
+<td><a href="https://github.com/sf-wdi-labs/html-css-review">HTML/CSS Review (JW)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/js-control-flow">Control Flow (CF)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/js-functions">Functions (JW)</a></td>
+<td>Review (JW)</td>
 </tr>
 
 <tr>
-<td><strong>1:30pm - 2:50pm Module 3</strong></td>
-<td><a href="https://github.com/SF-WDI-LABS/command-line">Command Line Tools</a></td>
-<td><a href="https://github.com/sf-wdi-36/project-03">Project 3</a></td>
-<td><a href="https://github.com/sf-wdi-36/project-03">Project 3</a></td>
-<td>Project 3 Presentations</td>
-<td>Stuff</td>
-
+<td><strong>1:30pm - 2:50pm</strong></td>
+<td><a href="https://github.com/SF-WDI-LABS/command-line">Command Line Tools (CF)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/git-github">GitHub Workflow (CF)</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/dev-tools">Chrome Dev Tools </a></td>
+<td><a href="https://github.com/SF-WDI-LABS/dom-manipulation">DOM Manipulation (CF)</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/bootstrap">Bootstrap (CF)</a></td>
 </tr>
+
 <tr>
-<td><strong>3:00pm - 4:30pm Module 4</strong></td>
-<td><a href="https://github.com/sf-wdi-labs/installfest">Installfest</a></td>
-<td><a href="https://github.com/sf-wdi-36/project-03">Project 3</a></td>
-<td>Outcomes (Mercedes)</td>
-<td>Graduation/Feedback</td>
-<td>Graduation/Feedback</td>
+<td><strong>3:00pm - 4:30pm</strong></td>
+<td><a href="https://github.com/sf-wdi-labs/installfest">Installfest (ALL)</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/personal-portfolio">Personal Site (CF)</a></td>
+<td>Outcomes (MJ)</td>
+<td><a href="https://github.com/sf-wdi-labs/dom-events-jquery"></a>DOM Events (CF)</td>
+<td><a href="https://github.com/SF-WDI-LABS/tic-tac-toe"</a>TicTacToe (CF)</td>
 </tr>
 
 <tr>
@@ -121,16 +118,21 @@ Schedule for WDI 39
 </tr>
 </tbody></table>
 
+
+<p align="center">
+<img src="PhotoFunia-1497888882.gif" >
+</p>
+
 #### Generic Schedule Overview
 
-Time | Monday, Tuesday, Thursday  | Wednesday | Friday
------ | ------------------ | ----- | ----
-9:15 - 10:20  | Module 1   | Module 1     | Module 1
-10:30 - 12:30| Module 2   | Module 2     | Module 2
-12:30 - 1:30 | Lunch         | Lunch          | Lunch
-1:30 - 2:50 | Module 3      | Module 3   | Module 3
-3:00 - 4:30 | Module 4      | Outcomes (3:30 - 5)  | Module 4
-4:30 - 5:00 | Office Hours   | - | -
+ Monday, Tuesday, Thursday  | Wednesday | Friday
+  ------------------ | ----- | ----
+   **9:15 - 10:20** first block   | **9:15 - 10:20** first block     | **9:15 - 10:20** first block
+ **10:30 - 12:30** second block    | **10:30 - 12:30** second block     | **10:30 - 12:30** second block
+  **12:30 - 1:30** Lunch         | **12:30 - 1:30** Lunch          | **12:30 - 1:30** Lunch
+  **1:30 - 2:50** third block      | **1:30 - 3:30** IA leads lab   | **1:30 - 2:50** third block
+  **3:00 - 4:15** 4th block     | **3:30 - 5** Outcomes  | **3:00 - 4:15** 4th block
+**4:15 - 5:00** Office Hours   | - | -
 
 
 **Slack Contacts**  

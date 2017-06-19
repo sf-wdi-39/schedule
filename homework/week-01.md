@@ -9,8 +9,19 @@ The evening trainings and readings below will help you solidify work so far and/
 
 **Tuesday**
 
+* work on Personal Site
+
 **Wednesday**
+
+* [Control Flow Training](https://github.com/SF-WDI-LABS/js-control-flow-training)
+* work on Personal Site
 
 **Thursday**
 
+* [Functions Training](https://github.com/SF-WDI-LABS/functions-exercises)
+* [jquery Training](https://github.com/SF-WDI-LABS/jquery-events-lab)
+* work on Personal Site
+
 **Friday/Weekend**
+
+* [TicTacToe](https://github.com/SF-WDI-LABS/tic-tac-toe)
