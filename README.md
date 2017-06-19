@@ -17,7 +17,7 @@ Schedule for WDI 39
 </tr>
 </thead><tbody>
 <tr>
-<td><strong>9:17am - 10:20am Module 1</strong></td>
+<td><strong>9:15am - 10:20am Module 1</strong></td>
 <td><a href="https://github.com/SF-WDI-LABS/ruby-algorithms-drills/tree/master/cats-in-hats" >Algorithm :cat:</a></td>
 <td>Algorithm</td>
 <td>Algorithm</td>
@@ -52,10 +52,10 @@ Schedule for WDI 39
 <tr>
 <td><strong>Training / Office Hours</strong></td>
 <td><a href="homework/week-01.md">Homework</a></td>
-<td><a href="https://github.com/sf-wdi-36/project-03">Project 3</a></td>
-<td><a href="https://github.com/sf-wdi-36/project-03">Project 3</a></td>
-<td><a href="https://github.com/sf-wdi-36/project-03">Project 3</a></td>
-<td><a href="https://github.com/sf-wdi-36/project-03">Project 3</a></td>
+<td><a href="homework/week-01.md">Homework</a></td>
+<td><a href="homework/week-01.md">Homework</a></td>
+<td><a href="homework/week-01.md">Homework</a></td>
+<td><a href="homework/week-01.md">Homework</a></td>
 </tr>
 </tbody></table>
 
