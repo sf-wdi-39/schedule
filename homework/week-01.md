@@ -5,10 +5,12 @@ The evening trainings and readings below will help you solidify work so far and/
 **Monday**
 
 * Fundamentals Check-in
+* [Optional: How the Internet Works (fun read)](https://github.com/SF-WDI-LABS/how-the-internet-works)
 * [Optional: command line mystery](https://github.com/SF-WDI-LABS/command-line-mystery)
 
 **Tuesday**
 
+* Fundamentals Check-in
 * work on Personal Site
 
 **Wednesday**
