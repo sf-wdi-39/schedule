@@ -8,6 +8,9 @@ The evening trainings and readings below will help you solidify work so far and/
 
 **Wednesday**
 
+* [Laundry Lab](https://github.com/SF-WDI-LABS/laundry-lab)
+* [Objects Training](https://github.com/SF-WDI-LABS/js-objects-training)
+
 **Thursday**
 
 **Friday/Weekend**
