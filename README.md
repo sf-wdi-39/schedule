@@ -121,6 +121,8 @@
 </tbody></table>
 
 
+***<a href="https://docs.google.com/a/generalassemb.ly/spreadsheets/d/1OLokItvRDBU2BEpVQ3Qr1DWyk9DEdY9Gj6YVr1Pxo_Y/edit?usp=sharing">Week 1 and 2 Mandatory 1:1 schedule</a>***
+
 <p align="center">
 <img src="PhotoFunia-1497888882.gif" >
 </p>
