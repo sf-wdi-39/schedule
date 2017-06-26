@@ -146,3 +146,5 @@ Patricia: @patricia.anderson
 Jean: @jean
 
 Cory: @cory.fauver
+
+Julie: @jlie_hng
