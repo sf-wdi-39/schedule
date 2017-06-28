@@ -3,7 +3,66 @@
 
 [Daily Pulse Check](https://docs.google.com/forms/d/e/1FAIpQLSe7KpquxAEpvf5gCdfEbt4RIFbmkiTKL8i_-P_9bcvG5zxnQQ/viewform?usp=sf_link) | [Weekly Pulse Check](https://docs.google.com/forms/d/e/1FAIpQLSdxQZMEgy4TwwWNGDWn5aRFEj5CEZW9a6oNOVCg69ReP3-U6w/viewform?usp=sf_link) | [How to...](https://github.com/SF-WDI-LABS/how-to) | [Keyboard shortcuts](https://github.com/SF-WDI-LABS/how-to/keyboard-shorcuts.md)
 
-<!--
+
+
+#### Week 4 - MongoDB
+
+<table>
+  <thead>
+    <tr>
+      <th>July 17-21</th>
+      <th> Monday </th>
+      <th> Tuesday </th>
+      <th> Wednesday </th>
+      <th> Thursday </th>
+      <th> Friday </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>9:15am - 10:20am </strong></td>
+      <td>MongoDB/Mongoose </td>
+      <td>Book App Sprint 2</td>
+      <td><a href="https://github.com/SF-WDI-LABS/express-personal-api">Personal API</a></td>
+      <td><a href="https://github.com/SF-WDI-LABS/"></a></td>
+      <td><a href="https://github.com/SF-WDI-LABS/"></a> </td>
+    </tr>
+    <tr>
+      <td><strong>10:30am - 12:30pm </strong></td>
+      <td>Book App Sprint 1</td>
+      <td>Book App Sprint 2</td>
+      <td><a href="https://github.com/SF-WDI-LABS/express-personal-api"> Personal API</a> </td>
+      <td><a href="https://github.com/SF-WDI-LABS/">  </a></td>
+      <td>  </td>
+    </tr>
+    <tr>
+      <td><strong>1:30pm - 2:50pm </strong></td>
+      <td>Mongoose Association</td>
+      <td>Book App Sprint 3</td>
+      <td><a href="https://github.com/SF-WDI-LABS/express-personal-api">Personal API Continued (JH)</a></td>
+      <td><a href="https://github.com/SF-WDI-LABS/"></a></td>
+      <td><a href="https://github.com/SF-WDI-LABS/"></a></td>
+    </tr>
+    <tr>
+      <td><strong>3:00pm - 4:30pm </strong></td>
+      <td>Mongoose Associations</td>
+      <td>Book App Sprint 3</td>
+      <td><a href="https://github.com/sf-wdi-39/outcomes/wiki">Outcomes (MJ)</a></td>
+      <td> <a href="https://github.com/SF-WDI-LABS/"></a> </td>
+      <td><a href="https://github.com/SF-WDI-LABS/"></a></td>
+    </tr>
+    <tr>
+      <td><strong>Training / Office Hours</strong></td>
+      <td><a href="homework/week-04.md#monday">Homework</a></td>
+      <td><a href="homework/week-04.md#tuesday">Homework</a></td>
+      <td><a href="homework/week-04.md#wednesday">Homework</a></td>
+      <td><a href="homework/week-04.md#thursday">Homework</a></td>
+      <td><a href="homework/week-04.md#friday">Homework</a></td>
+    </tr>
+  </tbody>
+</table>
+-->
+
 
 #### Week 2
 
@@ -61,7 +120,7 @@
     </tr>
   </tbody>
 </table>
--->
+
 
 #### Week 1
 <table><thead>
