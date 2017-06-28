@@ -16,10 +16,15 @@ The evening trainings and readings below will help you solidify work so far and/
 
 **Wednesday**
 
+To submit on pulse check: Nothing, you turned in the fundamentals check in packet this morning.
+
 * [Control Flow Training](https://github.com/SF-WDI-LABS/js-control-flow-training)
 * work on Personal Site
 
 **Thursday**
+
+
+To submit on pulse check: Link to your [control flow training repo](https://github.com/SF-WDI-LABS/js-control-flow-training)
 
 * [Functions Training](https://github.com/SF-WDI-LABS/functions-exercises)
 * [jquery Training](https://github.com/SF-WDI-LABS/jquery-events-lab)
