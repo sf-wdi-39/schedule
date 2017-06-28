@@ -3,7 +3,7 @@
 
 Schedule for WDI 39
 
-<!--
+
 
 #### Week 3
 <table><thead>
@@ -61,7 +61,7 @@ Schedule for WDI 39
 <td><a href="homework/week-03.md">Homework</a></td>
 </tr>
 </tbody></table>
--->
+
 
 #### Week 2
 
