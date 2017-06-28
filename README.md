@@ -24,32 +24,32 @@
       <td>MongoDB/Mongoose </td>
       <td>Book App Sprint 2</td>
       <td><a href="https://github.com/SF-WDI-LABS/express-personal-api">Personal API</a></td>
-      <td><a href="https://github.com/SF-WDI-LABS/"></a></td>
-      <td><a href="https://github.com/SF-WDI-LABS/"></a> </td>
+      <td><a href="https://github.com/SF-WDI-LABS/">Algorithm </a></td>
+      <td><a href="https://github.com/SF-WDI-LABS/">Review and assessment</a> </td>
     </tr>
     <tr>
       <td><strong>10:30am - 12:30pm </strong></td>
       <td>Book App Sprint 1</td>
       <td>Book App Sprint 2</td>
-      <td><a href="https://github.com/SF-WDI-LABS/express-personal-api"> Personal API</a> </td>
-      <td><a href="https://github.com/SF-WDI-LABS/">  </a></td>
-      <td>  </td>
+      <td><a href="https://github.com/SF-WDI-LABS/express-personal-api"> Personal API</a></td>
+      <td><a href="https://github.com/SF-WDI-LABS/tunely">Tunely Intro</a></td>
+      <td><a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a></td>
     </tr>
     <tr>
       <td><strong>1:30pm - 2:50pm </strong></td>
       <td>Mongoose Association</td>
       <td>Book App Sprint 3</td>
       <td><a href="https://github.com/SF-WDI-LABS/express-personal-api">Personal API Continued (JH)</a></td>
-      <td><a href="https://github.com/SF-WDI-LABS/"></a></td>
-      <td><a href="https://github.com/SF-WDI-LABS/"></a></td>
+      <td><a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a></td>
+      <td><a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a></td>
     </tr>
     <tr>
       <td><strong>3:00pm - 4:30pm </strong></td>
       <td>Mongoose Associations</td>
       <td>Book App Sprint 3</td>
       <td><a href="https://github.com/sf-wdi-39/outcomes/wiki">Outcomes (MJ)</a></td>
-      <td> <a href="https://github.com/SF-WDI-LABS/"></a> </td>
-      <td><a href="https://github.com/SF-WDI-LABS/"></a></td>
+      <td> <a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a> </td>
+      <td><a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a></td>
     </tr>
     <tr>
       <td><strong>Training / Office Hours</strong></td>
@@ -61,7 +61,7 @@
     </tr>
   </tbody>
 </table>
--->
+
 
 
 #### Week 2
