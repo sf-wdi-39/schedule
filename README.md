@@ -20,36 +20,36 @@ Schedule for WDI 39
 <td><strong>9:15am - 10:20am</strong></td>
 <td><a href="https://github.com/SF-WDI-LABS/js-oop-flower-power">OOP(JW)</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/js-algorithms-drills/tree/master/duplicate-in-array">Algorithm(CF)</a></td>
-<td>Project 0 Science Fair</td>
-<td><a href="https://github.com/SF-WDI-LABS/express">Express intro</a></td>
-<td>Algo/Review</td>
+<td>Project 0 Science Fair (All)</td>
+<td><a href="https://github.com/SF-WDI-LABS/express">Express intro(CF)</a></td>
+<td>Algo/Review (JW)</td>
 </tr>
 
 <tr>
 <td><strong>10:30am - 12:30pm</strong></td>
 <td><a href="https://github.com/SF-WDI-LABS/js-oop-flower-power">OOP(JW)</a></td>
-<td><a href="https://github.com/SF-WDI-LABS/project-00">Project 0</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/project-00">Project 0 (CF)</a></td>
 <td>Algo(JW)</td>
-<td><a href="https://github.com/sf-wdi-labs/express">Express Intro</a></td>
-<td><a href="https://github.com/sf-wdi-labs/test-driven-todo-api">ToDo Lab</a></td>
+<td><a href="https://github.com/sf-wdi-labs/express">Express Intro (CF)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/test-driven-todo-api">ToDo Lab (JW)</a></td>
 </tr>
 
 <tr>
 <td><strong>1:30pm - 2:50pm</strong></td>
-<td><a href="https://github.com/SF-WDI-LABS/oop-game-training">OOP drills(CF)</a></td>
-<td><a href="https://github.com/SF-WDI-LABS/project-00">Project 0</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/oop-game-training">OOP drills (CF)</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/project-00">Project 0 (JW)</a></td>
 <td>Algo(JH)</td>
-<td><a href="https://github.com/sf-wdi-labs/express-dynamic-routes">Express Routes && Params</a></td>
-<td><a href="https://github.com/sf-wdi-labs/test-driven-todo-api">ToDo Lab</a></td>
+<td><a href="https://github.com/sf-wdi-labs/express-dynamic-routes">Express Routes && Params (JW)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/test-driven-todo-api">ToDo Lab (CF)</a></td>
 </tr>
 
 <tr>
 <td><strong>3:00pm - 4:30pm</strong></td>
 <td><a href="https://github.com/SF-WDI-LABS/project-00">Project 0 intro(CF)</a></td>
-<td><a href="https://github.com/SF-WDI-LABS/project-00">Project 0</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/project-00">Project 0 (JW)</a></td>
 <td>Outcomes (Mercedes)</td>
-<td><a href="https://github.com/sf-wdi-labs/express-dynamic-routes">Express Routes && Params</a></td>
-<td><a href="https://github.com/sf-wdi-labs/test-driven-todo-api">ToDo Lab</a></td>
+<td><a href="https://github.com/sf-wdi-labs/express-dynamic-routes">Express Routes && Params (JW)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/test-driven-todo-api">ToDo Lab (CF)</a></td>
 </tr>
 
 <tr>
