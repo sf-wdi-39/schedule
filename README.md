@@ -46,7 +46,7 @@ Schedule for WDI 39
       <td><strong>3:00pm - 4:30pm </strong></td>
       <td>Holiday!</td>
       <td>Holiday!</td>
-      <td><a href="https://github.com/SF-WDI-LABS/js-objects">JS Objects (JW)</a></td>
+      <td><a href="https://github.com/SF-WDI-LABS/js-objects">JS Objects (CF)</a></td>
       <td> <a href="https://github.com/SF-WDI-LABS/intro-ajax">AJAX (CF)</a> </td>
       <td><a href="https://github.com/SF-WDI-LABS/geoquakes">Geoquakes (CF)</a></td>
     </tr>
