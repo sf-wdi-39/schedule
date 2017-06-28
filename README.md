@@ -9,17 +9,17 @@ Schedule for WDI 39
 <table><thead>
 <tr>
 <th>July 10 - 14</th>
-<th>Day 1</th>
-<th>Day 2</th>
-<th>Day 3</th>
-<th>Day 4</th>
-<th>Day  5</th>
+      <th> Monday </th>
+      <th> Tuesday </th>
+      <th> Wednesday </th>
+      <th> Thursday </th>
+      <th> Friday </th>
 </tr>
 </thead><tbody>
 <tr>
 <td><strong>9:15am - 10:20am</strong></td>
 <td><a href="https://github.com/SF-WDI-LABS/js-oop-flower-power">OOP(JW)</a></td>
-<td><a href="https://github.com/SF-WDI-LABS/js-algorithms-drills/tree/master/duplicate-in-array">Algorithm</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/js-algorithms-drills/tree/master/duplicate-in-array">Algorithm(CF)</a></td>
 <td>Project 0 Science Fair</td>
 <td><a href="https://github.com/SF-WDI-LABS/software-development-best-practices">Software Best Practice or Algo</a></td>
 <td>Algo/Review</td>
@@ -29,7 +29,7 @@ Schedule for WDI 39
 <td><strong>10:30am - 12:30pm</strong></td>
 <td><a href="https://github.com/SF-WDI-LABS/js-oop-flower-power">OOP(JW)</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/project-00">Project 0</a></td>
-<td>Algo</td>
+<td>Algo(JW)</td>
 <td><a href="https://github.com/sf-wdi-labs/express">Express Intro</a></td>
 <td><a href="https://github.com/sf-wdi-labs/test-driven-todo-api">ToDo Lab</a></td>
 </tr>
@@ -125,11 +125,11 @@ Schedule for WDI 39
 <table><thead>
 <tr>
 <th>June 26- 30</th>
-<th>Day 1</th>
-<th>Day 2</th>
-<th>Day 3</th>
-<th>Day 4</th>
-<th>Day 5</th>
+      <th> Monday </th>
+      <th> Tuesday </th>
+      <th> Wednesday </th>
+      <th> Thursday </th>
+      <th> Friday </th>
 </tr>
 </thead><tbody>
 <tr>
