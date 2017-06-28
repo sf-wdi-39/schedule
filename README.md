@@ -89,7 +89,7 @@
 <td><a href="https://github.com/sf-wdi-labs/html-css-review">HTML/CSS Review (JW)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/js-control-flow">Control Flow (CF)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/js-functions">Functions (JW)</a></td>
-<td>Review (JW)</td>
+<td>Review (JH)</td>
 </tr>
 
 <tr>
@@ -106,7 +106,7 @@
 <td><a href="https://github.com/sf-wdi-labs/installfest">Installfest (ALL)</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/personal-portfolio">Personal Site (CF)</a></td>
 <td>Outcomes (MJ)</td>
-<td><a href="https://github.com/sf-wdi-labs/dom-events-jquery"></a>DOM Events (CF)</td>
+<td><a href="https://github.com/sf-wdi-labs/dom-events-jquery">DOM Events</a>(CF)</td>
 <td><a href="https://github.com/SF-WDI-LABS/tic-tac-toe"</a>TicTacToe (CF)</td>
 </tr>
 
