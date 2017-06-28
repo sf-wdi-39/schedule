@@ -21,7 +21,7 @@ Schedule for WDI 39
 <td><a href="https://github.com/SF-WDI-LABS/js-oop-flower-power">OOP(JW)</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/js-algorithms-drills/tree/master/duplicate-in-array">Algorithm(CF)</a></td>
 <td>Project 0 Science Fair</td>
-<td><a href="https://github.com/SF-WDI-LABS/software-development-best-practices">Software Best Practice or Algo</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/express">Express intro</a></td>
 <td>Algo/Review</td>
 </tr>
 
