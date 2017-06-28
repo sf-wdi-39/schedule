@@ -38,7 +38,7 @@ Schedule for WDI 39
 <td><strong>1:30pm - 2:50pm</strong></td>
 <td><a href="https://github.com/SF-WDI-LABS/oop-game-training">OOP drills(CF)</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/project-00">Project 0</a></td>
-<td>Review and Pair Debugging</td>
+<td>Algo(JH)</td>
 <td><a href="https://github.com/sf-wdi-labs/express-dynamic-routes">Express Routes && Params</a></td>
 <td><a href="https://github.com/sf-wdi-labs/test-driven-todo-api">ToDo Lab</a></td>
 </tr>
