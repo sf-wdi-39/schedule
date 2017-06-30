@@ -63,14 +63,14 @@
 
 #### Week 1
 <table><thead>
-<tr>
-<th>June 26- 30</th>
-<th>Day 1</th>
-<th>Day 2</th>
-<th>Day 3</th>
-<th>Day 4</th>
-<th>Day 5</th>
-</tr>
+    <tr>
+      <th>July 5 - 7</th>
+      <th> Monday </th>
+      <th> Tuesday </th>
+      <th> Wednesday </th>
+      <th> Thursday </th>
+      <th> Friday </th>
+    </tr>
 </thead><tbody>
 <tr>
 <td><strong>9:15am - 10:20am</strong></td>
