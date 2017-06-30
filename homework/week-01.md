@@ -16,14 +16,14 @@ The evening trainings and readings below will help you solidify work so far and/
 
 **Wednesday**
 
-To submit on pulse check: Nothing, you turned in the fundamentals check in packet this morning.
+To submit on [pulse check](https://docs.google.com/forms/d/e/1FAIpQLSe7KpquxAEpvf5gCdfEbt4RIFbmkiTKL8i_-P_9bcvG5zxnQQ/viewform): Nothing, you turned in the fundamentals check in packet this morning.
 
 * [Control Flow Training](https://github.com/SF-WDI-LABS/js-control-flow-training)
 * work on Personal Site
 
 **Thursday**
 
-To submit on pulse check: Link to your [control flow training repo](https://github.com/SF-WDI-LABS/js-control-flow-training)
+To submit on [pulse check](https://docs.google.com/forms/d/e/1FAIpQLSe7KpquxAEpvf5gCdfEbt4RIFbmkiTKL8i_-P_9bcvG5zxnQQ/viewform): Link to your [control flow training repo](https://github.com/SF-WDI-LABS/js-control-flow-training)
 
 * [Functions training](https://github.com/SF-WDI-LABS/functions-exercises)
 * [jquery events training](https://github.com/SF-WDI-LABS/jquery-events-lab)
@@ -31,7 +31,7 @@ To submit on pulse check: Link to your [control flow training repo](https://gith
 
 **Friday/Weekend**
 
-To submit on pulse check: Link to your fork of the [personal portfolio site](https://github.com/SF-WDI-LABS/personal-portfolio)
+To submit on [pulse check](https://docs.google.com/forms/d/e/1FAIpQLSe7KpquxAEpvf5gCdfEbt4RIFbmkiTKL8i_-P_9bcvG5zxnQQ/viewform): Link to your fork of the [personal portfolio site](https://github.com/SF-WDI-LABS/personal-portfolio)
 
 * To turn in on Wednesday: [TicTacToe](https://github.com/SF-WDI-LABS/tic-tac-toe)
 * Additional practice: [jQuery events training](https://github.com/SF-WDI-LABS/jquery-events-lab)
