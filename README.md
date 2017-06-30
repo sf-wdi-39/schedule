@@ -60,6 +60,7 @@
     </tr>
   </tbody>
 </table>
+
 #### Week 1
 <table><thead>
 <tr>
