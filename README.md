@@ -105,7 +105,7 @@
 <td><a href="https://github.com/SF-WDI-LABS/personal-portfolio">Personal Site (CF)</a></td>
 <td>Outcomes (MJ)</td>
 <td><a href="https://github.com/sf-wdi-labs/dom-events-jquery">DOM Events</a>(CF)</td>
-<td><a href="https://github.com/SF-WDI-LABS/tic-tac-toe"</a>TicTacToe (CF)</td>
+<td><a href="https://github.com/SF-WDI-LABS/tic-tac-toe"</a>TicTacToe Intro(JW)</td>
 </tr>
 
 <tr>
