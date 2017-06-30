@@ -25,8 +25,8 @@ To submit on pulse check: Nothing, you turned in the fundamentals check in packe
 
 To submit on pulse check: Link to your [control flow training repo](https://github.com/SF-WDI-LABS/js-control-flow-training)
 
-* [Functions Training](https://github.com/SF-WDI-LABS/functions-exercises)
-* [jquery Training](https://github.com/SF-WDI-LABS/jquery-events-lab)
+* [Functions training](https://github.com/SF-WDI-LABS/functions-exercises)
+* [jquery events training](https://github.com/SF-WDI-LABS/jquery-events-lab)
 * To turn in tomorrow: Personal Site
 
 **Friday/Weekend**
@@ -34,3 +34,4 @@ To submit on pulse check: Link to your [control flow training repo](https://gith
 To submit on pulse check: Link to your fork of the [personal portfolio site](https://github.com/SF-WDI-LABS/personal-portfolio)
 
 * To turn in on Wednesday: [TicTacToe](https://github.com/SF-WDI-LABS/tic-tac-toe)
+* Additional practice: [jQuery events training](https://github.com/SF-WDI-LABS/jquery-events-lab)
