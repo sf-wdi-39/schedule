@@ -64,7 +64,7 @@
 #### Week 1
 <table><thead>
     <tr>
-      <th>July 5 - 7</th>
+      <th>June 27-30</th>
       <th> Monday </th>
       <th> Tuesday </th>
       <th> Wednesday </th>
