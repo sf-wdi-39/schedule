@@ -14,7 +14,7 @@ To submit on today's pulse check: Your fork of the Tic Tac Toe repo
 ### Thursday
 To submit on today's pulse check: Your fork of the Laundry List repo
 
-* [Giphy](https://github.com/SF-WDI-LABS/giffaw)
+* [Giffaw API Lab](https://github.com/SF-WDI-LABS/giffaw)
 * Come up with 3 questions from today's lessons/readings.
 
 <--### Friday/Weekend
