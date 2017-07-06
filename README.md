@@ -24,7 +24,7 @@
       <td>Holiday!:us:</td>
       <td><a href="https://github.com/SF-WDI-LABS/iterator-methods">Callbacks and iterator methods (JW)</a></td>
       <td><a href="https://github.com/SF-WDI-LABS/html-forms">HTML forms (CF)</a></td>
-      <td><a href="https://github.com/SF-WDI-LABS/js-algorithms-drills/tree/master/palindromes">Palindrome algorithm ()</a> </td>
+      <td><a href="https://github.com/SF-WDI-LABS/js-algorithms-drills/tree/master/palindromes">Palindrome algorithm (JH)</a> </td>
     </tr>
     <tr>
       <td><strong>10:30am - 12:30pm </strong></td>
