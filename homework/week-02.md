@@ -17,5 +17,7 @@ To submit on today's pulse check: Your fork of the Laundry List repo
 * [Giffaw API Lab](https://github.com/SF-WDI-LABS/giffaw)
 * Come up with 3 questions from today's lessons/readings.
 
-<--### Friday/Weekend
-To submit on today's pulse check:-->
+<!--
+### Friday/Weekend
+To submit on today's pulse check:
+-->
