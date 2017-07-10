@@ -5,7 +5,7 @@ The evening trainings and readings below will help you solidify work so far and/
 **Monday**
 
 * [OOP training](https://github.com/SF-WDI-LABS/oop-game-training)
-* work on game project (Project 0)
+* work on [game project (Project 0)](https://github.com/sf-wdi-39/project-0)
 
 **Tuesday**
 
