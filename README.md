@@ -1,7 +1,8 @@
 
 # SF WDI 39 Schedule
 
-Schedule for WDI 39
+[Daily Pulse Check](https://docs.google.com/forms/d/e/1FAIpQLSe7KpquxAEpvf5gCdfEbt4RIFbmkiTKL8i_-P_9bcvG5zxnQQ/viewform?usp=sf_link)  |  [Weekly Pulse Check](https://docs.google.com/forms/d/e/1FAIpQLSdxQZMEgy4TwwWNGDWn5aRFEj5CEZW9a6oNOVCg69ReP3-U6w/viewform?usp=sf_link)  |  [Outcomes](https://github.com/sf-wdi-39/outcomes/wiki)  |  [Keyboard shortcuts](https://github.com/SF-WDI-LABS/how-to/blob/master/keyboard-shorcuts.md)  |  [How to...](https://github.com/SF-WDI-LABS/how-to) 
+
 
 
 
@@ -62,7 +63,6 @@ Schedule for WDI 39
 </tr>
 </tbody></table>
 
-
 #### Week 2
 
 <table>
@@ -83,7 +83,7 @@ Schedule for WDI 39
       <td>Holiday!:us:</td>
       <td><a href="https://github.com/SF-WDI-LABS/iterator-methods">Callbacks and iterator methods (JW)</a></td>
       <td><a href="https://github.com/SF-WDI-LABS/html-forms">HTML forms (CF)</a></td>
-      <td><a href="https://github.com/SF-WDI-LABS/js-algorithms-drills/tree/master/palindromes">Palindrome algorithm ()</a> </td>
+      <td><a href="https://github.com/SF-WDI-LABS/js-algorithms-drills/tree/master/palindromes">Palindrome algorithm (JH)</a> </td>
     </tr>
     <tr>
       <td><strong>10:30am - 12:30pm </strong></td>
@@ -120,11 +120,10 @@ Schedule for WDI 39
   </tbody>
 </table>
 
-
 #### Week 1
 <table><thead>
-<tr>
-<th>June 26- 30</th>
+   <tr>
+      <th>June 26-30</th>
       <th> Monday </th>
       <th> Tuesday </th>
       <th> Wednesday </th>
@@ -147,7 +146,7 @@ Schedule for WDI 39
 <td><a href="https://github.com/sf-wdi-labs/html-css-review">HTML/CSS Review (JW)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/js-control-flow">Control Flow (CF)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/js-functions">Functions (JW)</a></td>
-<td>Review (JW)</td>
+<td>Review (JH)</td>
 </tr>
 
 <tr>
@@ -164,8 +163,8 @@ Schedule for WDI 39
 <td><a href="https://github.com/sf-wdi-labs/installfest">Installfest (ALL)</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/personal-portfolio">Personal Site (CF)</a></td>
 <td>Outcomes (MJ)</td>
-<td><a href="https://github.com/sf-wdi-labs/dom-events-jquery"></a>DOM Events (CF)</td>
-<td><a href="https://github.com/SF-WDI-LABS/tic-tac-toe"</a>TicTacToe (CF)</td>
+<td><a href="https://github.com/sf-wdi-labs/dom-events-jquery">DOM Events</a>(CF)</td>
+<td><a href="https://github.com/SF-WDI-LABS/tic-tac-toe"</a>TicTacToe Intro(JW)</td>
 </tr>
 
 <tr>
@@ -178,6 +177,8 @@ Schedule for WDI 39
 </tr>
 </tbody></table>
 
+
+***<a href="https://docs.google.com/a/generalassemb.ly/spreadsheets/d/1OLokItvRDBU2BEpVQ3Qr1DWyk9DEdY9Gj6YVr1Pxo_Y/edit?usp=sharing">Week 1 and 2 Mandatory 1:1 schedule</a>***
 
 <p align="center">
 <img src="PhotoFunia-1497888882.gif" >
@@ -202,3 +203,5 @@ Patricia: @patricia.anderson
 Jean: @jean
 
 Cory: @cory.fauver
+
+Julie: @jlie_hng
