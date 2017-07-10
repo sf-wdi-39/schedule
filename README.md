@@ -4,6 +4,65 @@
 [Daily Pulse Check](https://docs.google.com/forms/d/e/1FAIpQLSe7KpquxAEpvf5gCdfEbt4RIFbmkiTKL8i_-P_9bcvG5zxnQQ/viewform?usp=sf_link)  |  [Weekly Pulse Check](https://docs.google.com/forms/d/e/1FAIpQLSdxQZMEgy4TwwWNGDWn5aRFEj5CEZW9a6oNOVCg69ReP3-U6w/viewform?usp=sf_link)  |  [Outcomes](https://github.com/sf-wdi-39/outcomes/wiki)  |  [Keyboard shortcuts](https://github.com/SF-WDI-LABS/how-to/blob/master/keyboard-shorcuts.md)  |  [How to...](https://github.com/SF-WDI-LABS/how-to) 
 
 
+
+
+#### Week 3
+<table><thead>
+<tr>
+<th>July 10 - 14</th>
+      <th> Monday </th>
+      <th> Tuesday </th>
+      <th> Wednesday </th>
+      <th> Thursday </th>
+      <th> Friday </th>
+</tr>
+</thead><tbody>
+<tr>
+<td><strong>9:15am - 10:20am</strong></td>
+<td><a href="https://github.com/SF-WDI-LABS/js-oop-flower-power">OOP(JW)</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/js-algorithms-drills/tree/master/duplicate-in-array">Algorithm(CF)</a></td>
+<td>Project 0 Science Fair (All)</td>
+<td><a href="https://github.com/SF-WDI-LABS/express">Express intro(CF)</a></td>
+<td>Algo/Review (JW)</td>
+</tr>
+
+<tr>
+<td><strong>10:30am - 12:30pm</strong></td>
+<td><a href="https://github.com/SF-WDI-LABS/js-oop-flower-power">OOP(JW)</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/project-00">Project 0 (CF)</a></td>
+<td>Algo(JW)</td>
+<td><a href="https://github.com/sf-wdi-labs/express">Express Intro (CF)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/test-driven-todo-api">ToDo Lab (JW)</a></td>
+</tr>
+
+<tr>
+<td><strong>1:30pm - 2:50pm</strong></td>
+<td><a href="https://github.com/SF-WDI-LABS/oop-game-training">OOP drills (CF)</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/project-00">Project 0 (JW)</a></td>
+<td>Algo(JH)</td>
+<td><a href="https://github.com/sf-wdi-labs/express-dynamic-routes">Express Routes && Params (JW)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/test-driven-todo-api">ToDo Lab (CF)</a></td>
+</tr>
+
+<tr>
+<td><strong>3:00pm - 4:30pm</strong></td>
+<td><a href="https://github.com/SF-WDI-LABS/project-00">Project 0 intro(CF)</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/project-00">Project 0 (JW)</a></td>
+<td>Outcomes (Mercedes)</td>
+<td><a href="https://github.com/sf-wdi-labs/express-dynamic-routes">Express Routes && Params (JW)</a></td>
+<td><a href="https://github.com/sf-wdi-labs/test-driven-todo-api">ToDo Lab (CF)</a></td>
+</tr>
+
+<tr>
+<td><strong>Training / Office Hours</strong></td>
+<td><a href="homework/week-03.md">Homework</a></td>
+<td><a href="homework/week-03.md">Homework</a></td>
+<td><a href="homework/week-03.md">Homework</a></td>
+<td><a href="homework/week-03.md">Homework</a></td>
+<td><a href="homework/week-03.md">Homework</a></td>
+</tr>
+</tbody></table>
+
 #### Week 2
 
 <table>
@@ -63,14 +122,14 @@
 
 #### Week 1
 <table><thead>
-    <tr>
+   <tr>
       <th>June 26-30</th>
       <th> Monday </th>
       <th> Tuesday </th>
       <th> Wednesday </th>
       <th> Thursday </th>
       <th> Friday </th>
-    </tr>
+</tr>
 </thead><tbody>
 <tr>
 <td><strong>9:15am - 10:20am</strong></td>
