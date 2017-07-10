@@ -19,7 +19,7 @@
 </thead><tbody>
 <tr>
 <td><strong>9:15am - 10:20am</strong></td>
-<td><a href="https://github.com/SF-WDI-LABS/js-oop-flower-power">OOP(JW)</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/js-oop-flower-power">OOP(JW) :hibiscus:</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/js-algorithms-drills/tree/master/duplicate-in-array">Algorithm(CF)</a></td>
 <td>Project 0 Science Fair (All)</td>
 <td><a href="https://github.com/SF-WDI-LABS/express">Express intro(CF)</a></td>
@@ -28,7 +28,7 @@
 
 <tr>
 <td><strong>10:30am - 12:30pm</strong></td>
-<td><a href="https://github.com/SF-WDI-LABS/js-oop-flower-power">OOP(JW)</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/js-oop-flower-power">OOP(JW) :hibiscus:</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/project-00">Project 0 (CF)</a></td>
 <td>Algo(JW)</td>
 <td><a href="https://github.com/sf-wdi-labs/express">Express Intro (CF)</a></td>
