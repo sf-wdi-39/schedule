@@ -21,34 +21,34 @@
     <tr>
       <td><strong>9:15am - 10:20am </strong></td>
       <td><a href="https://github.com/SF-WDI-LABS/mongoose">MongoDB/Mongoose</a> (CF)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/mongoose-books-app">Book App Sprint 2</a></td>
-      <td><a href="https://github.com/SF-WDI-LABS/express-personal-api">Personal API</a>(CF)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/">Algorithm </a></td>
-      <td><a href="https://github.com/SF-WDI-LABS/">Review and assessment</a> </td>
+      <td><a href="https://github.com/SF-WDI-LABS/mongoose-books-app">Book App Sprint 2</a> (JW)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/express-personal-api">Personal API</a> (CF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/">Algorithm </a> (CF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/">Review and assessment</a> (JW) </td>
     </tr>
     <tr>
       <td><strong>10:30am - 12:30pm </strong></td>
-      <td><a href="https://github.com/SF-WDI-LABS/express-personal-api">Book App Sprint 1</a>(CF)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/express-personal-api">Book App Sprint 2</a></td>
-      <td><a href="https://github.com/SF-WDI-LABS/express-personal-api"> Personal API</a>(CF)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/tunely">Tunely Intro</a></td>
-      <td><a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a></td>
+      <td><a href="https://github.com/SF-WDI-LABS/express-personal-api">Book App Sprint 1</a> (CF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/express-personal-api">Book App Sprint 2</a> (JW)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/express-personal-api"> Personal API</a> (CF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/tunely">Tunely Intro</a> (CF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a> (JW)</td>
     </tr>
     <tr>
       <td><strong>1:30pm - 2:50pm </strong></td>
-      <td><a href="https://github.com/SF-WDI-LABS/mongoose-associations">Mongoose Association</a></td>
-      <td><a href="https://github.com/SF-WDI-LABS/express-personal-api">Book App Sprint 3</a></td>
+      <td><a href="https://github.com/SF-WDI-LABS/mongoose-associations">Mongoose Associations</a> (JW)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/express-personal-api">Book App Sprint 3</a> (CF)</td>
       <td><a href="https://github.com/SF-WDI-LABS/express-personal-api">Personal API Continued (JH)</a></td>
-      <td><a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a></td>
-      <td><a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a></td>
+      <td><a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a> (JW)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a> (JW)</td>
     </tr>
     <tr>
       <td><strong>3:00pm - 4:30pm </strong></td>
-      <td><a href="https://github.com/SF-WDI-LABS/mongoose-associations">Mongoose Associations</a></td>
-      <td><a href="https://github.com/SF-WDI-LABS/express-personal-api">Book App Sprint 3</a></td>
+      <td><a href="https://github.com/SF-WDI-LABS/mongoose-associations">Mongoose Associations</a> (JW)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/express-personal-api">Book App Sprint 3</a> (CF)</td>
       <td><a href="https://github.com/sf-wdi-39/outcomes/wiki">Outcomes (MJ)</a></td>
-      <td> <a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a> </td>
-      <td><a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a></td>
+      <td> <a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a> (JW) </td>
+      <td><a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a> (JW) </td>
     </tr>
     <tr>
       <td><strong>Training / Office Hours</strong></td>
