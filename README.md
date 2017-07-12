@@ -20,32 +20,32 @@
   <tbody>
     <tr>
       <td><strong>9:15am - 10:20am </strong></td>
-      <td>MongoDB/Mongoose </td>
-      <td>Book App Sprint 2</td>
+      <td><a href="https://github.com/SF-WDI-LABS/mongoose">MongoDB/Mongoose</a> </td>
+      <td><a href="https://github.com/SF-WDI-LABS/mongoose-books-app">Book App Sprint 2</a></td>
       <td><a href="https://github.com/SF-WDI-LABS/express-personal-api">Personal API</a></td>
       <td><a href="https://github.com/SF-WDI-LABS/">Algorithm </a></td>
       <td><a href="https://github.com/SF-WDI-LABS/">Review and assessment</a> </td>
     </tr>
     <tr>
       <td><strong>10:30am - 12:30pm </strong></td>
-      <td>Book App Sprint 1</td>
-      <td>Book App Sprint 2</td>
+      <td><a href="https://github.com/SF-WDI-LABS/express-personal-api">Book App Sprint 1</a></td>
+      <td><a href="https://github.com/SF-WDI-LABS/express-personal-api">Book App Sprint 2</a></td>
       <td><a href="https://github.com/SF-WDI-LABS/express-personal-api"> Personal API</a></td>
       <td><a href="https://github.com/SF-WDI-LABS/tunely">Tunely Intro</a></td>
       <td><a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a></td>
     </tr>
     <tr>
       <td><strong>1:30pm - 2:50pm </strong></td>
-      <td>Mongoose Association</td>
-      <td>Book App Sprint 3</td>
+      <td><a href="https://github.com/SF-WDI-LABS/mongoose-associations">Mongoose Association</a></td>
+      <td><a href="https://github.com/SF-WDI-LABS/express-personal-api">Book App Sprint 3</a></td>
       <td><a href="https://github.com/SF-WDI-LABS/express-personal-api">Personal API Continued (JH)</a></td>
       <td><a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a></td>
       <td><a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a></td>
     </tr>
     <tr>
       <td><strong>3:00pm - 4:30pm </strong></td>
-      <td>Mongoose Associations</td>
-      <td>Book App Sprint 3</td>
+      <td><a href="https://github.com/SF-WDI-LABS/mongoose-associations">Mongoose Associations</a></td>
+      <td><a href="https://github.com/SF-WDI-LABS/express-personal-api">Book App Sprint 3</a></td>
       <td><a href="https://github.com/sf-wdi-39/outcomes/wiki">Outcomes (MJ)</a></td>
       <td> <a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a> </td>
       <td><a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a></td>
