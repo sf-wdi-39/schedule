@@ -39,7 +39,7 @@
 <td><strong>1:30pm - 2:50pm</strong></td>
 <td><a href="https://github.com/SF-WDI-LABS/oop-game-training">OOP drills (CF)</a></td>
 <td><a href="https://github.com/sf-wdi-39/project-0">Project 0 (JW)</a></td>
-<td>Algo(JH)</td>
+<td><a href="https://github.com/SF-WDI-LABS/js-algorithms-drills/tree/master/max-contig-subarray">Algo (JH)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/express-dynamic-routes">Express Routes && Params (JW)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/test-driven-todo-api">ToDo Lab (CF)</a></td>
 </tr>
