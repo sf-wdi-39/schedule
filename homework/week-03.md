@@ -12,7 +12,7 @@ To submit on today's [pulse check](https://docs.google.com/forms/d/e/1FAIpQLSe7K
 
 ### Tuesday
 To submit on today's [pulse check](https://docs.google.com/forms/d/e/1FAIpQLSe7KpquxAEpvf5gCdfEbt4RIFbmkiTKL8i_-P_9bcvG5zxnQQ/viewform):
-Your [Project 0] repository (again).
+Your Project 0 repository (again).
 
 <!--
 ### Wednesday
