@@ -12,17 +12,23 @@ To submit on today's [pulse check](https://docs.google.com/forms/d/e/1FAIpQLSe7K
 
 ### Tuesday
 To submit on today's [pulse check](https://docs.google.com/forms/d/e/1FAIpQLSe7KpquxAEpvf5gCdfEbt4RIFbmkiTKL8i_-P_9bcvG5zxnQQ/viewform):
-Your Project 0 repository (again).
+Your [OOP training](https://github.com/SF-WDI-LABS/oop-game-training) repository
 
-<!--
+* work on [game project (Project 0)](https://github.com/sf-wdi-39/project-0)
+
+
 ### Wednesday
 To submit on today's [pulse check](https://docs.google.com/forms/d/e/1FAIpQLSe7KpquxAEpvf5gCdfEbt4RIFbmkiTKL8i_-P_9bcvG5zxnQQ/viewform):
+Your [game project (Project 0)](https://github.com/sf-wdi-39/project-0) repository (again).
 
 ### Thursday
 To submit on today's [pulse check](https://docs.google.com/forms/d/e/1FAIpQLSe7KpquxAEpvf5gCdfEbt4RIFbmkiTKL8i_-P_9bcvG5zxnQQ/viewform):
 
+* finish up [express intro](https://github.com/SF-WDI-LABS/express-intro)
+* come up with three questions regarding algorithms-- make sure they are clear and framed in a question format!
+
+<!--
 ### Friday/Weekend
 To submit on today's [pulse check](https://docs.google.com/forms/d/e/1FAIpQLSe7KpquxAEpvf5gCdfEbt4RIFbmkiTKL8i_-P_9bcvG5zxnQQ/viewform):
-
 
 -->
