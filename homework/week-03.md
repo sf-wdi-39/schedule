@@ -25,7 +25,7 @@ Your [game project (Project 0)](https://github.com/sf-wdi-39/project-0) reposito
 To submit on today's [pulse check](https://docs.google.com/forms/d/e/1FAIpQLSe7KpquxAEpvf5gCdfEbt4RIFbmkiTKL8i_-P_9bcvG5zxnQQ/viewform): nothing-- just take the survey!
 
 * finish up [express intro](https://github.com/SF-WDI-LABS/express-intro)
-* come up with three questions regarding algorithms-- make sure they are clear and framed in a question format!
+* Review the objectives from this week's lessons. Generate three questions from these objectives -- make sure they are clear and framed in a question format!
 
 <!--
 ### Friday/Weekend
