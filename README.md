@@ -83,9 +83,9 @@
 
 <tr>
 <td><strong>10:30am - 12:30pm</strong></td>
-<td><a href="https://github.com/SF-WDI-LABS/js-oop-flower-power">OOP(JW)</a></td>
-<td><a href="https://github.com/SF-WDI-LABS/project-00">Project 0 (CF)</a></td>
-<td>Algo(JW)</td>
+<td><a href="https://github.com/SF-WDI-LABS/js-oop-flower-power">OOP(JW) :hibiscus:</a></td>
+<td><a href="https://github.com/sf-wdi-39/project-0">Project 0 (CF)</a></td>
+<td>Algoirthm (JW)</td>
 <td><a href="https://github.com/sf-wdi-labs/express">Express Intro (CF)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/test-driven-todo-api">ToDo Lab (JW)</a></td>
 </tr>
@@ -93,8 +93,8 @@
 <tr>
 <td><strong>1:30pm - 2:50pm</strong></td>
 <td><a href="https://github.com/SF-WDI-LABS/oop-game-training">OOP drills (CF)</a></td>
-<td><a href="https://github.com/SF-WDI-LABS/project-00">Project 0 (JW)</a></td>
-<td>Algo(JH)</td>
+<td><a href="https://github.com/sf-wdi-39/project-0">Project 0 (JW)</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/js-algorithms-drills/tree/master/max-contig-subarray">Algorithm (JH)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/express-dynamic-routes">Express Routes && Params (JW)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/test-driven-todo-api">ToDo Lab (CF)</a></td>
 </tr>
