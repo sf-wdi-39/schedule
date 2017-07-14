@@ -1,10 +1,65 @@
 
 # SF WDI 39 Schedule
 
-[Daily Pulse Check](https://docs.google.com/forms/d/e/1FAIpQLSe7KpquxAEpvf5gCdfEbt4RIFbmkiTKL8i_-P_9bcvG5zxnQQ/viewform?usp=sf_link)  |  [Weekly Pulse Check](https://docs.google.com/forms/d/e/1FAIpQLSdxQZMEgy4TwwWNGDWn5aRFEj5CEZW9a6oNOVCg69ReP3-U6w/viewform?usp=sf_link)  |  [Outcomes](https://github.com/sf-wdi-39/outcomes/wiki)  |  [Keyboard shortcuts](https://github.com/SF-WDI-LABS/how-to/blob/master/keyboard-shorcuts.md)  |  [How to...](https://github.com/SF-WDI-LABS/how-to) 
+[Daily Pulse Check](https://docs.google.com/forms/d/e/1FAIpQLSe7KpquxAEpvf5gCdfEbt4RIFbmkiTKL8i_-P_9bcvG5zxnQQ/viewform?usp=sf_link)  |  [Weekly Pulse Check](https://docs.google.com/forms/d/e/1FAIpQLSdxQZMEgy4TwwWNGDWn5aRFEj5CEZW9a6oNOVCg69ReP3-U6w/viewform?usp=sf_link)  |  [Outcomes](https://github.com/sf-wdi-39/outcomes/wiki)  |  [Keyboard shortcuts](https://github.com/SF-WDI-LABS/how-to/blob/master/keyboard-shorcuts.md)  |  [How to...](https://github.com/SF-WDI-LABS/how-to)
 
 
 
+
+#### Week 4
+<table><thead>
+<tr>
+<th>July 17 - 21</th>
+      <th> Monday </th>
+      <th> Tuesday </th>
+      <th> Wednesday </th>
+      <th> Thursday </th>
+      <th> Friday </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>9:15am - 10:20am </strong></td>
+      <td><a href="https://github.com/SF-WDI-LABS/mongoose">MongoDB/Mongoose</a> (CF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/mongoose-books-app">Book App Sprint 2</a> (JW)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/express-personal-api">Personal API</a> (CF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/">Algorithm </a> (CF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/">Review and assessment</a> (JW) </td>
+    </tr>
+    <tr>
+      <td><strong>10:30am - 12:30pm </strong></td>
+      <td><a href="https://github.com/SF-WDI-LABS/express-personal-api">Book App Sprint 1</a> (CF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/express-personal-api">Book App Sprint 2</a> (JW)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/express-personal-api"> Personal API</a> (CF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/tunely">Tunely Intro</a> (CF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a> (JW)</td>
+    </tr>
+    <tr>
+      <td><strong>1:30pm - 2:50pm </strong></td>
+      <td><a href="https://github.com/SF-WDI-LABS/mongoose-associations">Mongoose Associations</a> (JW)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/express-personal-api">Book App Sprint 3</a> (CF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/express-personal-api">Personal API Continued (JH)</a></td>
+      <td><a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a> (JW)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a> (JW)</td>
+    </tr>
+    <tr>
+      <td><strong>3:00pm - 4:30pm </strong></td>
+      <td><a href="https://github.com/SF-WDI-LABS/mongoose-associations">Mongoose Associations</a> (JW)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/express-personal-api">Book App Sprint 3</a> (CF)</td>
+      <td><a href="https://github.com/sf-wdi-39/outcomes/wiki">Outcomes (MJ)</a></td>
+      <td> <a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a> (JW) </td>
+      <td><a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a> (JW) </td>
+    </tr>
+    <tr>
+      <td><strong>Training / Office Hours</strong></td>
+      <td><a href="homework/week-04.md#monday">Homework</a></td>
+      <td><a href="homework/week-04.md#tuesday">Homework</a></td>
+      <td><a href="homework/week-04.md#wednesday">Homework</a></td>
+      <td><a href="homework/week-04.md#thursday">Homework</a></td>
+      <td><a href="homework/week-04.md#friday">Homework</a></td>
+    </tr>
+  </tbody>
+</table>
 
 #### Week 3
 <table><thead>
@@ -19,7 +74,7 @@
 </thead><tbody>
 <tr>
 <td><strong>9:15am - 10:20am</strong></td>
-<td><a href="https://github.com/SF-WDI-LABS/js-oop-flower-power">OOP(JW) :hibiscus:</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/js-oop-flower-power">OOP(JW)</a></td>
 <td><a href="https://github.com/SF-WDI-LABS/js-algorithms-drills/tree/master/duplicate-in-array">Algorithm(CF)</a></td>
 <td>Project 0 Science Fair (All)</td>
 <td><a href="https://github.com/SF-WDI-LABS/express">Express intro(CF)</a></td>
@@ -46,8 +101,8 @@
 
 <tr>
 <td><strong>3:00pm - 4:30pm</strong></td>
-<td><a href="https://github.com/sf-wdi-39/project-0">Project 0 intro(CF)</a></td>
-<td><a href="https://github.com/sf-wdi-39/project-0">Project 0 (JW)</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/project-00">Project 0 intro(CF)</a></td>
+<td><a href="https://github.com/SF-WDI-LABS/project-00">Project 0 (JW)</a></td>
 <td>Outcomes (Mercedes)</td>
 <td><a href="https://github.com/sf-wdi-labs/express-dynamic-routes">Express Routes && Params (JW)</a></td>
 <td><a href="https://github.com/sf-wdi-labs/test-driven-todo-api">ToDo Lab (CF)</a></td>
@@ -62,6 +117,8 @@
 <td><a href="homework/week-03.md">Homework</a></td>
 </tr>
 </tbody></table>
+
+
 
 #### Week 2
 
