@@ -28,8 +28,8 @@
     </tr>
     <tr>
       <td><strong>10:30am - 12:30pm </strong></td>
-      <td><a href="https://github.com/SF-WDI-LABS/express-personal-api">Book App Sprint 1</a> (CF)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/express-personal-api">Book App Sprint 2</a> (JW)</td>
+      <td><a href="https://github.com/sf-wdi-labs/mongoose-books-app">Book App Sprint 1</a> (CF)</td>
+      <td><a href="https://github.com/sf-wdi-labs/mongoose-books-app">Book App Sprint 2</a> (JW)</td>
       <td><a href="https://github.com/SF-WDI-LABS/express-personal-api"> Personal API</a> (CF)</td>
       <td><a href="https://github.com/SF-WDI-LABS/tunely">Tunely Intro</a> (CF)</td>
       <td><a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a> (JW)</td>
