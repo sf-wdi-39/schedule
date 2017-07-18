@@ -37,7 +37,7 @@
     <tr>
       <td><strong>1:30pm - 2:50pm </strong></td>
       <td><a href="https://github.com/SF-WDI-LABS/mongoose-associations">Mongoose Associations</a> (JW)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/express-personal-api">Book App Sprint 3</a> (CF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/mongoose-books-app">Book App Sprint 3</a> (CF)</td>
       <td><a href="https://github.com/SF-WDI-LABS/express-personal-api">Personal API Continued (JH)</a></td>
       <td><a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a> (JW)</td>
       <td><a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a> (JW)</td>
