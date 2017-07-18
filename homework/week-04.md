@@ -9,6 +9,9 @@ The evening trainings and readings below will help you solidify work so far and/
 
 ### Tuesday
 
+* To turn in on pulse check: nothing
+* homework for tonight: Finish book app sprints 2 and 3
+
 ### Wednesday
 
 ### Thursday
