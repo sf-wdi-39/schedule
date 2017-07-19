@@ -3,7 +3,60 @@
 
 [Daily Pulse Check](https://docs.google.com/forms/d/e/1FAIpQLSe7KpquxAEpvf5gCdfEbt4RIFbmkiTKL8i_-P_9bcvG5zxnQQ/viewform?usp=sf_link)  |  [Weekly Pulse Check](https://docs.google.com/forms/d/e/1FAIpQLSdxQZMEgy4TwwWNGDWn5aRFEj5CEZW9a6oNOVCg69ReP3-U6w/viewform?usp=sf_link)  |  [Outcomes](https://github.com/sf-wdi-39/outcomes/wiki)  |  [Keyboard shortcuts](https://github.com/SF-WDI-LABS/how-to/blob/master/keyboard-shorcuts.md)  |  [How to...](https://github.com/SF-WDI-LABS/how-to)
 
-
+#### Week 5
+<table><thead>
+<tr>
+<th>July 24 - 28</th>
+      <th> Monday </th>
+      <th> Tuesday </th>
+      <th> Wednesday </th>
+      <th> Thursday </th>
+      <th> Friday </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>9:15am - 10:20am </strong></td>
+      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Tunely Review</a> (CF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Stacks</a> (CF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Queues</a> (JW)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/">Trees </a> (JC)</td>
+      <td>Data Structure Algorithms (JW) </td>
+    </tr>
+    <tr>
+      <td><strong>10:30am - 12:30pm </strong></td>
+      <td><a href="https://github.com/sf-wdi-labs/REPLACE">Project 1 Intro</a> (All)</td>
+      <td><a href="https://github.com/sf-wdi-labs/REPLACE">Project 1</a> (CF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/REPLACE"> Project 1</a> (JW)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 1</a> (JW)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 1</a> (JW)</td>
+    </tr>
+    <tr>
+      <td><strong>1:30pm - 2:50pm </strong></td>
+      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 1</a> (JW)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 1</a> (JW)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 1 (JH)</a></td>
+      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 1</a> (CF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 1</a> (CF)</td>
+    </tr>
+    <tr>
+      <td><strong>3:00pm - 4:30pm </strong></td>
+      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 1</a> (JW)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 1</a> (JW)</td>
+      <td><a href="https://github.com/sf-wdi-39/outcomes/wiki">Outcomes (MJ)</a></td>
+      <td> <a href="https://github.com/SF-WDI-LABS/REPLACE">Project 1</a> (CF) </td>
+      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 1</a> (CF) </td>
+    </tr>
+    <tr>
+      <td><strong>Training / Office Hours</strong></td>
+      <td><a href="homework/week-05.md#monday">Homework</a></td>
+      <td><a href="homework/week-05.md#tuesday">Homework</a></td>
+      <td><a href="homework/week-05.md#wednesday">Homework</a></td>
+      <td><a href="homework/week-05.md#thursday">Homework</a></td>
+      <td><a href="homework/week-05.md#friday">Homework</a></td>
+    </tr>
+  </tbody>
+</table>
 
 
 #### Week 4
