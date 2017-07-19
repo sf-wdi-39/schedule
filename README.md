@@ -17,7 +17,7 @@
   <tbody>
     <tr>
       <td><strong>9:15am - 10:20am </strong></td>
-      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Tunely Review</a> (CF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/tunely">Tunely Review</a> (JW)</td>
       <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Stacks</a> (CF)</td>
       <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Queues</a> (JW)</td>
       <td><a href="https://github.com/SF-WDI-LABS/">Trees </a> (JC)</td>
@@ -25,27 +25,27 @@
     </tr>
     <tr>
       <td><strong>10:30am - 12:30pm </strong></td>
-      <td><a href="https://github.com/sf-wdi-labs/REPLACE">Project 1 Intro</a> (All)</td>
-      <td><a href="https://github.com/sf-wdi-labs/REPLACE">Project 1</a> (CF)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/REPLACE"> Project 1</a> (JW)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 1</a> (JW)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 1</a> (JW)</td>
+      <td><a href="https://github.com/sf-wdi-39/project-01">Project 1 Intro</a> (All)</td>
+      <td><a href="https://github.com/sf-wdi-39/project-01">Project 1 approvals</a> (All)</td>
+      <td><a href="https://github.com/SF-WDI-39/project-01"> Project 1</a> (JW)</td>
+      <td><a href="https://github.com/SF-WDI-39/project-01">Project 1</a> (CF)</td>
+      <td><a href="https://github.com/SF-WDI-39/project-01">Project 1</a> (JW)</td>
     </tr>
     <tr>
       <td><strong>1:30pm - 2:50pm </strong></td>
-      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 1</a> (JW)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 1</a> (JW)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 1 (JH)</a></td>
-      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 1</a> (CF)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 1</a> (CF)</td>
+      <td><a href="https://github.com/SF-WDI-39/project-01">Project 1</a> (CF)</td>
+      <td><a href="https://github.com/SF-WDI-39/project-01">Project 1</a> (JW)</td>
+      <td><a href="https://github.com/SF-WDI-39/project-01">Project 1 (JH)</a></td>
+      <td><a href="https://github.com/SF-WDI-39/project-01">Project 1</a> (JW)</td>
+      <td><a href="https://github.com/SF-WDI-39/project-01">Project 1</a> (CF)</td>
     </tr>
     <tr>
       <td><strong>3:00pm - 4:30pm </strong></td>
-      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 1</a> (JW)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 1</a> (JW)</td>
+      <td><a href="https://github.com/SF-WDI-39/project-01">Project 1</a> (CF)</td>
+      <td><a href="https://github.com/SF-WDI-39/project-01">Project 1</a> (JW)</td>
       <td><a href="https://github.com/sf-wdi-39/outcomes/wiki">Outcomes (MJ)</a></td>
-      <td> <a href="https://github.com/SF-WDI-LABS/REPLACE">Project 1</a> (CF) </td>
-      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 1</a> (CF) </td>
+      <td> <a href="https://github.com/SF-WDI-39/project-01">Project 1</a> (JW) </td>
+      <td><a href="https://github.com/SF-WDI-39/project-01">Project 1</a> (CF) </td>
     </tr>
     <tr>
       <td><strong>Training / Office Hours</strong></td>
