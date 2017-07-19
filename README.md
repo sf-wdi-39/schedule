@@ -24,7 +24,7 @@
       <td><a href="https://github.com/SF-WDI-LABS/mongoose-books-app">Book App Sprint 2</a> (JW)</td>
       <td><a href="https://github.com/SF-WDI-LABS/express-personal-api">Personal API</a> (CF)</td>
       <td><a href="https://github.com/SF-WDI-LABS/">Algorithm </a> (CF)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/">Review and assessment</a> (JW) </td>
+      <td>Review and assessment (JW) </td>
     </tr>
     <tr>
       <td><strong>10:30am - 12:30pm </strong></td>
