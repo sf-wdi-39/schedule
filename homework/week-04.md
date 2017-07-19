@@ -17,6 +17,14 @@ The evening trainings and readings below will help you solidify work so far and/
 * To turn in on pulse check: your fork of Book Lab
 * homework for tonight: finish Personal API and push what you have to Heroku
 
+<!--
 ### Thursday
 
+* To turn in on pulse check: Personal API heroku link / github link
+* homework for tonight: Tunely
+
+
 ### Friday/Weekend
+
+* Tunely
+-->
