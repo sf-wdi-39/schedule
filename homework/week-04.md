@@ -14,6 +14,9 @@ The evening trainings and readings below will help you solidify work so far and/
 
 ### Wednesday
 
+* To turn in on pulse check: your fork of Book Lab
+* homework for tonight: finish Personal API and push what you have to Heroku
+
 ### Thursday
 
 ### Friday/Weekend
