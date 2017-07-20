@@ -23,7 +23,7 @@
       <td><a href="https://github.com/SF-WDI-LABS/mongoose">MongoDB/Mongoose</a> (CF)</td>
       <td><a href="https://github.com/SF-WDI-LABS/mongoose-books-app">Book App Sprint 2</a> (JW)</td>
       <td><a href="https://github.com/SF-WDI-LABS/express-personal-api">Personal API</a> (CF)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/">Algorithm </a> (CF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/js-algorithms-drills/tree/master/longest-word">Algorithm </a> (CF)</td>
       <td>Review and assessment (JW) </td>
     </tr>
     <tr>
