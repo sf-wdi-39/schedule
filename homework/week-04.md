@@ -23,10 +23,10 @@ The evening trainings and readings below will help you solidify work so far and/
 * homework for tonight: Work through sprint 2 of Tunely
 * We will have a written assessment tomorrow. Plese review the material from the last two weeks on server side JavaScript. Look closely at the objectives and notes from [Mongo/Mongoose](https://github.com/SF-WDI-LABS/mongoose), [Express](https://github.com/SF-WDI-LABS/express), [Express Routes and Params](https://github.com/sf-wdi-labs/express-dynamic-routes), and [Mongoose Associations](https://github.com/SF-WDI-LABS/mongoose-associations).
 
-<!--
 
 ### Friday/Weekend
 
+* To turn in on pulse check: your fork of Tunely (it's fine, we know that some of your work may be on someone else's repo)
 
-* Tunely
--->
+* To do over the weekend: redo Tunely to get more practice! Or, rebuild your personal API or another API for practice. We will be starting our first full-stack project on Monday and we will have some time to review any questions you have on Monday AM.
+
