@@ -33,7 +33,7 @@
     </tr>
     <tr>
       <td><strong>1:30pm - 2:50pm </strong></td>
-      <td><a href="https://github.com/SF-WDI-39/project-01">Project 1</a> (CF)</td>
+      <td><a href="https://github.com/SF-WDI-39/project-01">Project 1</a> and <a href="https://github.com/SF-WDI-LABS/github-collaboration">Github Collaboration</a> (CF)</td>
       <td><a href="https://github.com/SF-WDI-39/project-01">Project 1</a> (JW)</td>
       <td><a href="https://github.com/SF-WDI-39/project-01">Project 1 (JH)</a></td>
       <td><a href="https://github.com/SF-WDI-39/project-01">Project 1</a> (JW)</td>
