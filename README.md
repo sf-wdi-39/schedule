@@ -18,10 +18,10 @@
     <tr>
       <td><strong>9:15am - 10:20am </strong></td>
       <td><a href="https://github.com/SF-WDI-LABS/tunely">Tunely Review</a> (JW)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/stacks">Stacks</a> (CF)</td>
+      <td><a href="https://github.com/sf-wdi-39/project-01">Project 1 approvals</a> (CF) </td>
+      <td><a href="https://github.com/SF-WDI-LABS/stacks">Stacks</a> (JC)</td>
       <td><a href="https://github.com/SF-WDI-LABS/queues">Queues</a> (JW)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/">Trees </a> (JC)</td>
-      <td>Data Structure Algorithms (JW) </td>
+      <td><a href="https://github.com/SF-WDI-LABS/trees">Trees </a> (JC)</td>
     </tr>
     <tr>
       <td><strong>10:30am - 12:30pm </strong></td>
