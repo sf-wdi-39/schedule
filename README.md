@@ -17,43 +17,43 @@
   <tbody>
     <tr>
       <td><strong>9:15am - 10:20am </strong></td>
-      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">REPLACE</a> (JW)</td>
-      <td><a href="https://github.com/sf-wdi-39/REPLACE">REPLACE</a> (CF) </td>
-      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">REPLACE</a> (JC)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">REPLACE</a> (JW)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">REPLACE </a> (JC)</td>
+      <td><a href="https://github.com/sf-wdi-39/project-01#presentation-tips">Project 1 presentations</a> (ALL)</td>
+      <td><a href="https://github.com/sf-wdi-LABS/REPLEACE">React Intro: Components</a> (CF) </td>
+      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">React Router</a> (JC)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">AJAX and React</a> (JW)</td>
+      <td> Review and Assessment (JC)</td>
     </tr>
     <tr>
       <td><strong>10:30am - 12:30pm </strong></td>
-      <td><a href="https://github.com/sf-wdi-39/REPLACE">Replace Intro</a> (All)</td>
-      <td><a href="https://github.com/sf-wdi-39/REPLACE">Replace approvals</a> (All)</td>
-      <td><a href="https://github.com/SF-WDI-39/REPLACE"> Replace</a> (JW)</td>
-      <td><a href="https://github.com/SF-WDI-39/REPLACE">Replace</a> (CF)</td>
-      <td><a href="https://github.com/SF-WDI-39/REPLACE">Replace</a> (JW)</td>
+      <td><a href="https://github.com/sf-wdi-39/project-01#presentation-tips">Project 1 presentations</a> and wrap up (ALL)</td>
+      <td><a href="https://github.com/sf-wdi-39/REPLACE">React Intro: Components </a> (All)</td>
+      <td><a href="https://github.com/SF-WDI-39/REPLACE">React todo Sprints 0, 1, and 2</a> (JW)</td>
+      <td><a href="https://github.com/SF-WDI-39/REPLACE">React todo sprint 3</a> (CF)</td>
+      <td> Review and Assessment (JW)</td>
     </tr>
     <tr>
       <td><strong>1:30pm - 2:50pm </strong></td>
-      <td><a href="https://github.com/SF-WDI-39/REPLACE">REPLACE</a> REPLACE (CF)</td>
-      <td><a href="https://github.com/SF-WDI-39/REPLACE">REPLACE</a> (JW)</td>
-      <td><a href="https://github.com/SF-WDI-39/REPLACE">REPLACE (JH)</a></td>
-      <td><a href="https://github.com/SF-WDI-39/REPLACE">REPLACE</a> (JW)</td>
-      <td><a href="https://github.com/SF-WDI-39/REPLACE">REPLACE</a> (CF)</td>
+      <td><a href="https://github.com/SF-WDI-39/REPLACE">ES6, Classes , and Inheritance</a> (CF)</td>
+      <td><a href="https://github.com/SF-WDI-39/REPLACE">React Intro: State and Props</a> (JW)</td>
+      <td><a href="https://github.com/SF-WDI-39/REPLACE">React todo Sprints 0, 1, and 2 </a>(JH)</td>
+      <td><a href="https://github.com/SF-WDI-39/REPLACE">Handling Events in React</a> (JW)</td>
+      <td><a href="https://github.com/SF-WDI-39/REPLACE">Weekend Lab</a> (CF)</td>
     </tr>
     <tr>
       <td><strong>3:00pm - 4:30pm </strong></td>
-      <td><a href="https://github.com/SF-WDI-39/REPLACE">REPLACE</a> (CF)</td>
-      <td><a href="https://github.com/SF-WDI-39/REPLACE">REPLACE</a> (JW)</td>
+      <td><a href="https://github.com/SF-WDI-39/REPLACE">ES6, Classes , and Inheritance</a> (CF)</td>
+      <td><a href="https://github.com/SF-WDI-39/REPLACE">React Intro: State and Props</a> (JW)</td>
       <td><a href="https://github.com/sf-wdi-39/outcomes/wiki">Outcomes (MJ)</a></td>
-      <td> <a href="https://github.com/SF-WDI-39/REPLACE">REPLACE</a> (JW) </td>
-      <td><a href="https://github.com/SF-WDI-39/REPLACE">REPLACE</a> (CF) </td>
+      <td> <a href="https://github.com/SF-WDI-39/REPLACE">React todo sprints 4 and 5</a> (JW) </td>
+      <td><a href="https://github.com/SF-WDI-39/REPLACE">Weekend lab</a> (CF) </td>
     </tr>
     <tr>
       <td><strong>Training / Office Hours</strong></td>
-      <td><a href="homework/week-05.md#monday">Homework</a></td>
-      <td><a href="homework/week-05.md#tuesday">Homework</a></td>
-      <td><a href="homework/week-05.md#wednesday">Homework</a></td>
-      <td><a href="homework/week-05.md#thursday">Homework</a></td>
-      <td><a href="homework/week-05.md#friday">Homework</a></td>
+      <td><a href="homework/week-06.md#monday">Homework</a></td>
+      <td><a href="homework/week-06.md#tuesday">Homework</a></td>
+      <td><a href="homework/week-06.md#wednesday">Homework</a></td>
+      <td><a href="homework/week-06.md#thursday">Homework</a></td>
+      <td><a href="homework/week-06.md#friday">Homework</a></td>
     </tr>
   </tbody>
 </table>
