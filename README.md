@@ -19,7 +19,7 @@
       <td><strong>9:15am - 10:20am </strong></td>
       <td><a href="https://github.com/sf-wdi-39/project-01#presentation-tips">Project 1 presentations</a> (ALL)</td>
       <td><a href="https://github.com/SF-WDI-LABS/react-intro">React Intro: Components</a> (JW) </td>
-      <td><a href="https://github.com/SF-WDI-LABS/REPLACE"></a> React Router (JW)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/REPLACE"></a> React Router (CF)</td>
       <td><a href="https://github.com/SF-WDI-LABS/REPLACE"></a>AJAX and React (CF)</td>
       <td> Review and Assessment (JW)</td>
     </tr>
@@ -27,13 +27,13 @@
       <td><strong>10:30am - 12:30pm </strong></td>
       <td><a href="https://github.com/sf-wdi-39/project-01#presentation-tips">Project 1 presentations</a> and wrap up (ALL)</td>
       <td><a href="https://github.com/SF-WDI-LABS/react-intro">React Intro: Components </a> (JW)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/react-todo-walkthrough-jquery">React todo Sprints 0, 1, and 2</a> (JW)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/react-todo-walkthrough-jquery">React todo Sprints 0, 1, and 2</a> (CF)</td>
       <td><a href="https://github.com/SF-WDI-LABS/react-todo-walkthrough-jquery">React todo sprint 3</a> (CF)</td>
       <td> Review and Assessment (JW)</td>
     </tr>
     <tr>
       <td><strong>1:30pm - 2:50pm </strong></td>
-      <td><a href="https://github.com/SF-WDI-LABS/es6">ES6</a>, <a href="http://javascript.info/class">Classes</a>, and <a href="http://javascript.info/class-inheritance">Inheritance</a> (CF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/es6">ES6</a>, <a href="http://javascript.info/class">Classes</a>, and <a href="http://javascript.info/class-inheritance">Inheritance</a> (JW)</td>
       <td><a href="https://github.com/SF-WDI-LABS/react-intro-2">React Intro: State and Props</a> (CF)</td>
       <td><a href="https://github.com/SF-WDI-LABS/react-todo-walkthrough-jquery">React todo Sprints 0, 1, and 2 </a>(JH)</td>
       <td><a href="https://github.com/SF-WDI-39/REPLACE"></a>Handling Events in React (JW)</td>
@@ -41,7 +41,7 @@
     </tr>
     <tr>
       <td><strong>3:00pm - 4:30pm </strong></td>
-      <td><a href="https://github.com/SF-WDI-LABS/es6">ES6</a>, <a href="http://javascript.info/class">Classes</a>, and <a href="http://javascript.info/class-inheritance">Inheritance</a> (CF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/es6">ES6</a>, <a href="http://javascript.info/class">Classes</a>, and <a href="http://javascript.info/class-inheritance">Inheritance</a> (JW)</td>
       <td><a href="https://github.com/SF-WDI-LABS/react-intro-2">React Intro: State and Props</a> (CF)</td>
       <td><a href="https://github.com/sf-wdi-39/outcomes/wiki">Outcomes </a> (MJ)</td>
       <td> <a href="https://github.com/SF-WDI-LABS/react-todo-walkthrough-jquery">React todo sprints 4 and 5</a> (JW) </td>
