@@ -3,6 +3,62 @@
 
 [Daily Pulse Check](https://docs.google.com/forms/d/e/1FAIpQLSe7KpquxAEpvf5gCdfEbt4RIFbmkiTKL8i_-P_9bcvG5zxnQQ/viewform?usp=sf_link)  |  [Weekly Pulse Check](https://docs.google.com/forms/d/e/1FAIpQLSdxQZMEgy4TwwWNGDWn5aRFEj5CEZW9a6oNOVCg69ReP3-U6w/viewform?usp=sf_link)  |  [Outcomes](https://github.com/sf-wdi-39/outcomes/wiki)  |  [Keyboard shortcuts](https://github.com/SF-WDI-LABS/how-to/blob/master/keyboard-shorcuts.md)  |  [How to...](https://github.com/SF-WDI-LABS/how-to)
 
+#### Week 6
+<table><thead>
+<tr>
+<th>July 31 - August 4</th>
+      <th> Monday </th>
+      <th> Tuesday </th>
+      <th> Wednesday </th>
+      <th> Thursday </th>
+      <th> Friday </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>9:15am - 10:20am </strong></td>
+      <td><a href="https://github.com/sf-wdi-39/project-01#presentation-tips">Project 1 presentations</a> (ALL)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/react-intro">React Intro: Components</a> (JW) </td>
+      <td><a href="https://github.com/SF-WDI-LABS/REPLACE"></a> React Router (CF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/REPLACE"></a>AJAX and React (CF)</td>
+      <td> Review and Assessment (JW)</td>
+    </tr>
+    <tr>
+      <td><strong>10:30am - 12:30pm </strong></td>
+      <td><a href="https://github.com/sf-wdi-39/project-01#presentation-tips">Project 1 presentations</a> and wrap up (ALL)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/react-intro">React Intro: Components </a> (JW)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/react-todo-walkthrough-jquery">React todo Sprints 0, 1, and 2</a> (CF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/react-todo-walkthrough-jquery">React todo sprint 3</a> (CF)</td>
+      <td> Review and Assessment (JW)</td>
+    </tr>
+    <tr>
+      <td><strong>1:30pm - 2:50pm </strong></td>
+      <td><a href="https://github.com/SF-WDI-LABS/es6">ES6</a>, <a href="http://javascript.info/class">Classes</a>, and <a href="http://javascript.info/class-inheritance">Inheritance</a> (JW)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/react-intro-2">React Intro: State and Props</a> (CF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/react-todo-walkthrough-jquery">React todo Sprints 0, 1, and 2 </a>(JH)</td>
+      <td><a href="https://github.com/SF-WDI-39/REPLACE"></a>Handling Events in React (JW)</td>
+      <td><a href="https://github.com/SF-WDI-39/REPLACE"></a>Weekend Lab (CF)</td>
+    </tr>
+    <tr>
+      <td><strong>3:00pm - 4:30pm </strong></td>
+      <td><a href="https://github.com/SF-WDI-LABS/es6">ES6</a>, <a href="http://javascript.info/class">Classes</a>, and <a href="http://javascript.info/class-inheritance">Inheritance</a> (JW)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/react-intro-2">React Intro: State and Props</a> (CF)</td>
+      <td><a href="https://github.com/sf-wdi-39/outcomes/wiki">Outcomes </a> (MJ)</td>
+      <td> <a href="https://github.com/SF-WDI-LABS/react-todo-walkthrough-jquery">React todo sprints 4 and 5</a> (JW) </td>
+      <td><a href="https://github.com/SF-WDI-39/REPLACE"></a>Weekend lab (CF) </td>
+    </tr>
+    <tr>
+      <td><strong>Training / Office Hours</strong></td>
+      <td><a href="homework/week-06.md#monday">Homework</a></td>
+      <td><a href="homework/week-06.md#tuesday">Homework</a></td>
+      <td><a href="homework/week-06.md#wednesday">Homework</a></td>
+      <td><a href="homework/week-06.md#thursday">Homework</a></td>
+      <td><a href="homework/week-06.md#friday">Homework</a></td>
+    </tr>
+  </tbody>
+</table>
+
+
 #### Week 5
 <table><thead>
 <tr>
