@@ -15,11 +15,16 @@ To submit on today's [pulse check](https://docs.google.com/forms/d/e/1FAIpQLSe7K
 * The [ATM react lab](https://github.com/SF-WDI-LABS/atm-react)
 * Optional: checkout the codebase in this repo to see a fully built out version of the video player example we talked through.
 
-<!--
+
 
 ### Wednesday
-To submit on today's [pulse check](https://docs.google.com/forms/d/e/1FAIpQLSe7KpquxAEpvf5gCdfEbt4RIFbmkiTKL8i_-P_9bcvG5zxnQQ/viewform):
 
+To submit on today's [pulse check](https://docs.google.com/forms/d/e/1FAIpQLSe7KpquxAEpvf5gCdfEbt4RIFbmkiTKL8i_-P_9bcvG5zxnQQ/viewform):ATM lab
+
+* finish todo sprints 0,1,2
+* read up on React Router documentation (v3):https://github.com/ReactTraining/react-router/tree/v3/docs
+
+<!--
 ### Thursday
 To submit on today's [pulse check](https://docs.google.com/forms/d/e/1FAIpQLSe7KpquxAEpvf5gCdfEbt4RIFbmkiTKL8i_-P_9bcvG5zxnQQ/viewform):
 
