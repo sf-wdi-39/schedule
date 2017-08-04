@@ -17,35 +17,35 @@
   <tbody>
     <tr>
       <td><strong>9:15am - 10:20am </strong></td>
-      <td><a href="https://github.com/sf-wdi-labs/react-giphy">Weekend Lab Review</a> (REPLACE)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/MERN-CRUD-Lab">Full Stack React - MERN CRUD Lab</a> (REPLACE) </td>
-      <td><a href="https://github.com/SF-WDI-LABS/project-wayfarer">Intro Project Wayfarer</a> (REPLACE)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/React-And-Passport">(Optional) Auth with Passport</a> (REPLACE)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/project-wayfarer"> Project Wayfarer</a> (REPLACE)</td>
+      <td><a href="https://github.com/sf-wdi-labs/react-giphy">Weekend Lab Review</a> (JC)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/MERN-CRUD-Lab">MERN CRUD Lab</a> (JC) </td>
+      <td><a href="https://github.com/SF-WDI-LABS/project-wayfarer">Intro Project Wayfarer</a> (CF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/React-And-Passport">(Optional) Auth with Passport</a> (CF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/project-wayfarer"> Project Wayfarer</a> (CF)</td>
     </tr>
     <tr>
       <td><strong>10:30am - 12:30pm </strong></td>
-      <td><a href="https://github.com/SF-WDI-LABS/react-component-lifecycle">Component Life Cycle</a> (REPLACE) </td>
-      <td><a href="https://github.com/SF-WDI-LABS/MERN-CRUD-Lab">MERN CRUD Lab</a> (REPLACE) </td>
-      <td><a href="https://github.com/SF-WDI-LABS/project-wayfarer">Intro Project Wayfarer</a> (REPLACE)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/React-And-Passport">(Optional) Auth with Passport</a> (REPLACE)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/project-wayfarer"> Project Wayfarer</a> (REPLACE)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/react-component-lifecycle">Component Life Cycle</a> (JC) </td>
+      <td><a href="https://github.com/SF-WDI-LABS/MERN-CRUD-Lab">MERN CRUD Lab</a> (JC) </td>
+      <td><a href="https://github.com/SF-WDI-LABS/project-wayfarer">Intro Project Wayfarer</a> (CF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/React-And-Passport">(Optional) Auth with Passport</a> (CF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/project-wayfarer"> Project Wayfarer</a> (CF)</td>
     </tr>
     <tr>
       <td><strong>1:30pm - 2:50pm </strong></td>
-      <td><a href="https://github.com/SF-WDI-LABS/MERN-CRUD-Lab">MERN CRUD Lab</a> (REPLACE) </td>
-      <td><a href="https://github.com/SF-WDI-LABS/MERN-CRUD-Lab">MERN CRUD Lab</a> (REPLACE) </td>
-      <td><a href="https://github.com/SF-WDI-LABS/project-wayfarer"> Project Wayfarer</a> (REPLACE)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/project-wayfarer"> Project Wayfarer</a> (REPLACE)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/project-wayfarer"> Project Wayfarer</a> (REPLACE)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/MERN-CRUD-Lab">Full Stack React - MERN CRUD Lab</a> (CF) </td>
+      <td><a href="https://github.com/SF-WDI-LABS/MERN-CRUD-Lab">MERN CRUD Lab</a> (CF) </td>
+      <td><a href="https://github.com/SF-WDI-LABS/project-wayfarer"> Project Wayfarer</a> (JH)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/project-wayfarer"> Project Wayfarer</a> (JC)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/project-wayfarer"> Project Wayfarer</a> (JC)</td>
     </tr>
     <tr>
       <td><strong>3:00pm - 4:30pm </strong></td>
-      <td><a href="https://github.com/SF-WDI-LABS/MERN-CRUD-Lab">MERN CRUD Lab</a> (REPLACE) </td>
-      <td><a href="https://github.com/SF-WDI-LABS/MERN-CRUD-Lab">MERN CRUD Lab</a> (REPLACE) </td>
+      <td><a href="https://github.com/SF-WDI-LABS/MERN-CRUD-Lab">MERN CRUD Lab</a> (CF) </td>
+      <td><a href="https://github.com/SF-WDI-LABS/MERN-CRUD-Lab">MERN CRUD Lab</a> (CF) </td>
       <td><a href="https://github.com/sf-wdi-39/outcomes/wiki">Outcomes </a> (TK)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/project-wayfarer"> Project Wayfarer</a> (REPLACE)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/project-wayfarer"> Project Wayfarer</a> (REPLACE)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/project-wayfarer"> Project Wayfarer</a> (JC)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/project-wayfarer"> Project Wayfarer</a> (JC)</td>
     </tr>
     <tr>
       <td><strong>Training / Office Hours</strong></td>
