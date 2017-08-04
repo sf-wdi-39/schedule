@@ -3,6 +3,61 @@
 
 [Daily Pulse Check](https://docs.google.com/forms/d/e/1FAIpQLSe7KpquxAEpvf5gCdfEbt4RIFbmkiTKL8i_-P_9bcvG5zxnQQ/viewform?usp=sf_link)  |  [Weekly Pulse Check](https://docs.google.com/forms/d/e/1FAIpQLSdxQZMEgy4TwwWNGDWn5aRFEj5CEZW9a6oNOVCg69ReP3-U6w/viewform?usp=sf_link)  |  [Outcomes](https://github.com/sf-wdi-39/outcomes/wiki)  |  [Keyboard shortcuts](https://github.com/SF-WDI-LABS/how-to/blob/master/keyboard-shorcuts.md)  |  [How to...](https://github.com/SF-WDI-LABS/how-to)
 
+#### Week 7
+<table><thead>
+<tr>
+<th>August 7 - August 11</th>
+      <th> Monday </th>
+      <th> Tuesday </th>
+      <th> Wednesday </th>
+      <th> Thursday </th>
+      <th> Friday </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>9:15am - 10:20am </strong></td>
+      <td><a href="https://github.com/sf-wdi-labs/react-giphy">Weekend Lab Review</a> (JC)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/MERN-CRUD-Lab">MERN CRUD Lab</a> (JC) </td>
+      <td><a href="https://github.com/SF-WDI-LABS/project-wayfarer">Intro Project Wayfarer</a> (CF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/React-And-Passport">(Optional) Auth with Passport</a> (CF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/project-wayfarer"> Project Wayfarer</a> (CF)</td>
+    </tr>
+    <tr>
+      <td><strong>10:30am - 12:30pm </strong></td>
+      <td><a href="https://github.com/SF-WDI-LABS/react-component-lifecycle">Component Life Cycle</a> (JC) </td>
+      <td><a href="https://github.com/SF-WDI-LABS/MERN-CRUD-Lab">MERN CRUD Lab</a> (JC) </td>
+      <td><a href="https://github.com/SF-WDI-LABS/project-wayfarer">Intro Project Wayfarer</a> (CF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/React-And-Passport">(Optional) Auth with Passport</a> (CF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/project-wayfarer"> Project Wayfarer</a> (CF)</td>
+    </tr>
+    <tr>
+      <td><strong>1:30pm - 2:50pm </strong></td>
+      <td><a href="https://github.com/SF-WDI-LABS/MERN-CRUD-Lab">Full Stack React - MERN CRUD Lab</a> (CF) </td>
+      <td><a href="https://github.com/SF-WDI-LABS/MERN-CRUD-Lab">MERN CRUD Lab</a> (CF) </td>
+      <td><a href="https://github.com/SF-WDI-LABS/project-wayfarer"> Project Wayfarer</a> (JH)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/project-wayfarer"> Project Wayfarer</a> (JC)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/project-wayfarer"> Project Wayfarer</a> (JC)</td>
+    </tr>
+    <tr>
+      <td><strong>3:00pm - 4:30pm </strong></td>
+      <td><a href="https://github.com/SF-WDI-LABS/MERN-CRUD-Lab">MERN CRUD Lab</a> (CF) </td>
+      <td><a href="https://github.com/SF-WDI-LABS/MERN-CRUD-Lab">MERN CRUD Lab</a> (CF) </td>
+      <td><a href="https://github.com/sf-wdi-39/outcomes/wiki">Outcomes </a> (TK)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/project-wayfarer"> Project Wayfarer</a> (JC)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/project-wayfarer"> Project Wayfarer</a> (JC)</td>
+    </tr>
+    <tr>
+      <td><strong>Training / Office Hours</strong></td>
+      <td><a href="homework/week-07.md#monday">Homework</a></td>
+      <td><a href="homework/week-07.md#tuesday">Homework</a></td>
+      <td><a href="homework/week-07.md#wednesday">Homework</a></td>
+      <td><a href="homework/week-07.md#thursday">Homework</a></td>
+      <td><a href="homework/week-07.md#friday">Homework</a></td>
+    </tr>
+  </tbody>
+</table>
+
 #### Week 6
 <table><thead>
 <tr>
