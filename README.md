@@ -19,7 +19,7 @@
       <td><strong>9:15am - 10:20am </strong></td>
       <td><a href="https://github.com/sf-wdi-39/project-01#presentation-tips">Project 1 presentations</a> (ALL)</td>
       <td><a href="https://github.com/SF-WDI-LABS/react-intro">React Intro: Components</a> (JW) </td>
-      <td><a href="https://github.com/SF-WDI-LABS/REPLACE"></a> React Router (CF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/react-router"></a> React Router (CF)</td>
       <td><a href="https://github.com/SF-WDI-LABS/REPLACE"></a>AJAX and React (CF)</td>
       <td> Review and Assessment (JW)</td>
     </tr>
