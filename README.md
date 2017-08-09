@@ -43,7 +43,7 @@
       <td><strong>3:00pm - 4:30pm </strong></td>
       <td><a href="https://github.com/SF-WDI-LABS/MERN-CRUD-Lab">MERN CRUD Lab</a> (CF) </td>
       <td><a href="https://github.com/SF-WDI-LABS/MERN-CRUD-Lab">MERN CRUD Lab</a> (CF) </td>
-      <td><a href="https://github.com/sf-wdi-39/outcomes/wiki">Outcomes Week off </a> Work on your Lab! (JH)</td>
+      <td><a href="https://github.com/sf-wdi-39/outcomes/wiki">Outcomes Week off </a> Work on your Project (JH)</td>
       <td><a href="https://github.com/SF-WDI-39/project-wayfarer"> Project Wayfarer</a> (JC)</td>
       <td><a href="https://github.com/SF-WDI-39/project-wayfarer"> Project Wayfarer</a> (JC)</td>
     </tr>
