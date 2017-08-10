@@ -20,7 +20,7 @@
       <td><a href="https://github.com/sf-wdi-labs/react-giphy">Weekend Lab Review</a> (JC)</td>
       <td><a href="https://github.com/SF-WDI-LABS/MERN-CRUD-Lab">MERN CRUD Lab</a> (JC) </td>
       <td><a href="https://github.com/SF-WDI-39/project-wayfarer">Intro Project Wayfarer</a> (CF)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/React-And-Passport">(Optional) Auth with Passport</a> (CF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/express-microblog-add-auth/blob/master/README.md">(Optional) Auth with Passport</a> (CF)</td>
       <td><a href="https://github.com/SF-WDI-39/project-wayfarer"> Project Wayfarer</a> (CF)</td>
     </tr>
     <tr>
@@ -28,7 +28,7 @@
       <td><a href="https://github.com/SF-WDI-LABS/react-component-lifecycle">Component Life Cycle</a> (JC) </td>
       <td><a href="https://github.com/SF-WDI-LABS/MERN-CRUD-Lab">MERN CRUD Lab</a> (JC) </td>
       <td><a href="https://github.com/SF-WDI-39/project-wayfarer">Intro Project Wayfarer</a> (CF)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/React-And-Passport">(Optional) Auth with Passport</a> (CF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/React-And-Passport">(Optional) React Auth with Passport</a> (CF)</td>
       <td><a href="https://github.com/SF-WDI-39/project-wayfarer"> Project Wayfarer</a> (CF)</td>
     </tr>
     <tr>
