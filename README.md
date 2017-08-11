@@ -22,7 +22,7 @@
   <tbody>
     <tr>
       <td><strong>9:15am - 10:20am </strong></td>
-      <td><a href="https://github.com/sf-wdi-39/project-wayfarer">Project Wayfarer</a> (JC)</td>
+      <td><a href="https://github.com/sf-wdi-39/project-wayfarer">Project Wayfarer</a> (CF)</td>
       <td><a href="https://github.com/sf-wdi-39/project-wayfarer">Project Wayfarer</a> (CF)</td>
       <td><a href="https://github.com/SF-WDI-LABS/intro-ruby">Intro to Ruby</a> (CF) </td>
       <td><a href="https://github.com/SF-WDI-LABS/ruby-methods">Ruby Methods</a> and Ruby Method Demos (CF)</td>
@@ -30,7 +30,7 @@
     </tr>
     <tr>
       <td><strong>10:30am - 12:30pm </strong></td>
-      <td><a href="https://github.com/sf-wdi-39/project-wayfarer">Project Wayfarer</a> (JC)</td>
+      <td><a href="https://github.com/sf-wdi-39/project-wayfarer">Project Wayfarer</a> (CF)</td>
       <td><a href="https://github.com/sf-wdi-39/project-wayfarer">Project Wayfarer</a> (CF)</td>
       <td><a href="https://github.com/SF-WDI-LABS/intro-ruby">Intro to Ruby</a> (CF)</td>
       <td> <a href="https://github.com/SF-WDI-LABS/ruby-methods">Ruby Methods</a> (CF)</td>
@@ -38,7 +38,7 @@
     </tr>
     <tr>
       <td><strong>1:30pm - 2:50pm </strong></td>
-      <td><a href="https://github.com/sf-wdi-39/project-wayfarer">Project Wayfarer</a> (CF)</td>
+      <td><a href="https://github.com/sf-wdi-39/project-wayfarer">Project Wayfarer</a> (JC)</td>
       <td><a href="https://github.com/sf-wdi-39/project-wayfarer">Wayfarer Wrap Up</a> (All)</td>
       <td><a href="https://github.com/SF-WDI-LABS/idiomatic-ruby">Idiomatic Ruby</a> and Prep Ruby Method Demos  (JH)</td>
       <td><a href="https://github.com/SF-WDI-LABS/ruby-method-drills">Ruby Method Drills</a> (JC)</td>
@@ -46,7 +46,7 @@
     </tr>
     <tr>
       <td><strong>3:00pm - 4:30pm </strong></td>
-      <td><a href="https://github.com/sf-wdi-39/project-wayfarer">Project Wayfarer </a> (CF)</td>
+      <td><a href="https://github.com/sf-wdi-39/project-wayfarer">Project Wayfarer </a> (JC)</td>
       <td><a href="https://github.com/sf-wdi-39/project-wayfarer">Wayfarer Wrap Up</a> (All)</td>
       <td><a href="https://github.com/sf-wdi-39/outcomes/wiki">Outcomes </a> (TK)</td>
       <td><a href="https://github.com/SF-WDI-LABS/ruby-method-drills">Ruby Method Drills</a> (JC)</td>
