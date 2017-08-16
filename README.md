@@ -19,34 +19,34 @@
       <td><strong>9:15am - 10:20am </strong></td>
       <td><a href="https://github.com/sf-wdi-labs/public-library-app">Library App Review</a> (CF)</td>
       <td><a href="https://github.com/SF-WDI-LABS/rspec">RSpec</a> (JC)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Lightning Talks</a> (All)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Binary Search</a> (JC)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Bubble Sort</a> (JC)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/lightning-talks">Lightning Talks</a> (All)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/binary-search">Binary Search</a> (JC)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/bubble-sort">Bubble Sort</a> (JC)</td>
 
     </tr>
     <tr>
       <td><strong>10:30am - 12:30pm </strong></td>
       <td><a href="https://github.com/sf-wdi-labs/public-library-app">Library App Review</a> (CF)</td>
       <td><a href="https://github.com/SF-WDI-LABS/testing-with-rspec">RSpec in Rails</a> and <a href="https://github.com/SF-WDI-LABS/rspec_testing_inventory">Lab</a> (JC)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 2 intro</a> (All)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 2 planning approvals</a> (All)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 2</a> (JC)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/project-02">Project 2 intro</a> (All)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/project-02">Project 2 planning approvals</a> (All)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/project-02">Project 2 </a> (JC)</td>
     </tr>
     <tr>
       <td><strong>1:30pm - 2:50pm </strong></td>
-      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Asset Pipeline</a> (CF)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 2 Pitches</a> (All)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 2 Planning </a>(CF)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 2 </a> (CF)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 2 </a> (CF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/rails-asset-pipeline">Asset Pipeline</a> (CF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/project-02">Project 2 Pitches</a> (All)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/project-02">Project 2 Planning </a>(CF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/project-02">Project 2 </a> (CF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/project-02">Project 2 </a> (CF)</td>
     </tr>
     <tr>
       <td><strong>3:00pm - 4:30pm </strong></td>
-      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Asset Pipeline</a> (CF)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 2 Pitches</a> (All)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/rails-asset-pipeline">Asset Pipeline</a> (CF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/project-02">Project 2 Pitches</a> (All)</td>
       <td><a href="https://github.com/sf-wdi-39/outcomes/wiki">Outcomes </a> (TK)</td>
-      <td> <a href="https://github.com/SF-WDI-LABS/REPLACE">Project 2 </a> (CF) </td>
-      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 2 </a> (CF) </td>
+      <td> <a href="https://github.com/SF-WDI-LABS/project-02">Project 2 </a> (CF) </td>
+      <td><a href="https://github.com/SF-WDI-LABS/project-02">Project 2 </a> (CF) </td>
     </tr>
     <tr>
       <td><strong>Training / Office Hours</strong></td>
@@ -95,7 +95,7 @@
       <td><a href="https://github.com/SF-WDI-LABS/migrations">Migrations</a> (JC)</td>
       <td><a href="https://github.com/SF-WDI-LABS/rails_bog_app">Bog App</a> (JH)</td>
       <td><a href="https://github.com/SF-WDI-LABS/rails-validations-errors">Validations and Error Handling</a> (CF)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/REPLACE"></a> Review/Assessment (CF)</td>
+      <td> Review/Assessment (CF)</td>
     </tr>
     <tr>
       <td><strong>3:00pm - 4:30pm </strong></td>
