@@ -11,12 +11,15 @@ To submit on today's [pulse check](https://docs.google.com/forms/d/e/1FAIpQLSe7K
 ### Wednesday
 To submit on today's [pulse check](https://docs.google.com/forms/d/e/1FAIpQLSe7KpquxAEpvf5gCdfEbt4RIFbmkiTKL8i_-P_9bcvG5zxnQQ/viewform): none
 
-*[Ruby Method Swarm Attack!](https://github.com/SF-WDI-LABS/ruby-methods-swarm)
+* [Ruby Method Swarm Attack!](https://github.com/SF-WDI-LABS/ruby-methods-swarm)
 
 ### Thursday
 To submit on today's [pulse check](https://docs.google.com/forms/d/e/1FAIpQLSe7KpquxAEpvf5gCdfEbt4RIFbmkiTKL8i_-P_9bcvG5zxnQQ/viewform):none, you already submitted your gists
 
-*[Ruby method drills](https://github.com/SF-WDI-LABS/ruby-method-drills)
+Put 2 hours outside of class into the following:
+
+* [Ruby method drills](https://github.com/SF-WDI-LABS/ruby-method-drills)
+* [More ruby method practice!](https://github.com/SF-WDI-LABS/ruby-methods/blob/master/exercises.md)
 
 <!--
 ### Friday/Weekend
