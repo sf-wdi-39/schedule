@@ -24,6 +24,7 @@ Put 2 hours outside of class into the following:
 
 * [Ruby method drills](https://github.com/SF-WDI-LABS/ruby-method-drills)
 * [More ruby method practice!](https://github.com/SF-WDI-LABS/ruby-methods/blob/master/exercises.md)
+* Sign up for an account at [Code Wars](https://www.codewars.com) and train on Ruby Katas. When you submit your solutions, make sure to look carefully at other solutions and notice their "best practices" and "cleverness" scores.
 
 <!--
 ### Friday/Weekend
