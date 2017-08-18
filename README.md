@@ -26,7 +26,7 @@
       <td><a href="https://github.com/sf-wdi-39/project-wayfarer">Project Wayfarer</a> (CF)</td>
       <td><a href="https://github.com/SF-WDI-LABS/intro-ruby">Intro to Ruby</a> (CF) </td>
       <td><a href="https://github.com/SF-WDI-LABS/ruby-methods">Ruby Methods</a> and Ruby Method Demos (CF)</td>
-      <td><a href="https://github.com/sf-wdi-LABS/ruby-monster-oop">Ruby OOP</a> (JC)</td>
+      <td><a href="https://github.com/sf-wdi-LABS/ruby-oop">Ruby OOP</a> (JC)</td>
     </tr>
     <tr>
       <td><strong>10:30am - 12:30pm </strong></td>
@@ -34,7 +34,7 @@
       <td><a href="https://github.com/sf-wdi-39/project-wayfarer">Project Wayfarer</a> (CF)</td>
       <td><a href="https://github.com/SF-WDI-LABS/intro-ruby">Intro to Ruby</a> (CF)</td>
       <td> <a href="https://github.com/SF-WDI-LABS/ruby-methods">Ruby Methods</a> (CF)</td>
-      <td><a href="https://github.com/sf-wdi-LABS/ruby-monster-oop">Ruby OOP</a> (JC)</td>
+      <td><a href="https://github.com/sf-wdi-LABS/ruby-monster-oop">Ruby OOP Drills</a> (JC)</td>
     </tr>
     <tr>
       <td><strong>1:30pm - 2:50pm </strong></td>
