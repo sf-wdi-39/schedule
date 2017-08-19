@@ -26,11 +26,12 @@ Put 2 hours outside of class into the following:
 * [More ruby method practice!](https://github.com/SF-WDI-LABS/ruby-methods/blob/master/exercises.md)
 * Sign up for an account at [Code Wars](https://www.codewars.com) and train on Ruby Katas. When you submit your solutions, make sure to look carefully at other solutions and notice their "best practices" and "cleverness" scores.
 
-<!--
 ### Friday/Weekend
 To submit on today's [pulse check](https://docs.google.com/forms/d/e/1FAIpQLSe7KpquxAEpvf5gCdfEbt4RIFbmkiTKL8i_-P_9bcvG5zxnQQ/viewform):
 
 ### Weekend
+
+0. Continue working on Go Fish OOP or the Monster Lab. Repeat if you have time!
 
 1. Work through [Try Ruby](http://tryruby.org/levels/1/challenges/0), an interactive introduction to Ruby. The whole tutorial is very useful, but at least do levels 1-4.  _Note: despite what the site says, this will take longer than 15 minutes! Plan to spend about 1 hour working throug this and taking notes._
 
@@ -47,4 +48,3 @@ To submit on today's [pulse check](https://docs.google.com/forms/d/e/1FAIpQLSe7K
  
 5. Use any extra time to go farther with the resources above or check out other resources about Ruby! One possibility is 
 [codewars' Ruby language challenges](https://www.codewars.com/?language=ruby).
--->
