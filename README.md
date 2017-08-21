@@ -3,9 +3,65 @@
 
 [Daily Pulse Check](https://docs.google.com/forms/d/e/1FAIpQLSe7KpquxAEpvf5gCdfEbt4RIFbmkiTKL8i_-P_9bcvG5zxnQQ/viewform?usp=sf_link)  |  [Weekly Pulse Check](https://docs.google.com/forms/d/e/1FAIpQLSdxQZMEgy4TwwWNGDWn5aRFEj5CEZW9a6oNOVCg69ReP3-U6w/viewform?usp=sf_link)  |  [Outcomes](https://github.com/sf-wdi-39/outcomes/wiki)  |  [Keyboard shortcuts](https://github.com/SF-WDI-LABS/how-to/blob/master/keyboard-shorcuts.md)  |  [How to...](https://github.com/SF-WDI-LABS/how-to)
 
-<!--  <td><a href="https://github.com/SF-WDI-LABS/rspec"></a>RSpec (JC)</td> 
+<!--  <td><a href="https://github.com/SF-WDI-LABS/rspec"></a>RSpec (JC)</td>
       <td> <a href="https://github.com/SF-WDI-LABS/rspec">RSpec</a> (JC) </td>
 -->
+
+
+#### Week 9
+<table><thead>
+<tr>
+<th>August 21 - August 25</th>
+      <th> Monday </th>
+      <th> Tuesday </th>
+      <th> Wednesday </th>
+      <th> Thursday </th>
+      <th> Friday </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>9:15am - 10:20am </strong></td>
+      <td><a href="https://github.com/sf-wdi-labs/rails-intro">Rails Intro</a> (JC)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/active-record">Active Record</a> (JC) </td>
+      <td><a href="https://github.com/SF-WDI-LABS/rails_bog_app">Bog App</a> (JH)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/rails-associations">Associations</a> (MF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/cookies-sessions">Cookies and Sessions</a> (CF)</td>
+    </tr>
+    <tr>
+      <td><strong>10:30am - 12:30pm </strong></td>
+      <td><a href="https://github.com/sf-wdi-labs/rails-intro">Intro Rails</a> (JC)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/active-record">Active Record</a> (JC)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/rails_bog_app">Bog App</a> (JH)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/rails-associations">Associations</a> (MF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/rails-auth">Auth</a> (CF)</td>
+    </tr>
+    <tr>
+      <td><strong>1:30pm - 2:50pm </strong></td>
+      <td><a href="https://github.com/SF-WDI-LABS/rails-views-and-helpers">Rails Views and Helpers</a> (JC)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/migrations">Migrations</a> (JC)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/rails_bog_app">Bog App</a> (JH)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/rails-validations-errors">Validations and Error Handling</a> (CF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/REPLACE"></a> Review/Assessment (CF)</td>
+    </tr>
+    <tr>
+      <td><strong>3:00pm - 4:30pm </strong></td>
+      <td><a href="https://github.com/SF-WDI-LABS/rails-views-and-helpers">Rails Views and Helpers</a> (JC)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/migrations">Migrations</a> (JC)</td>
+      <td><a href="https://github.com/sf-wdi-39/outcomes/wiki">Outcomes </a> (TK)</td>
+      <td> <a href="https://github.com/SF-WDI-LABS/rails-validations-errors">Validations and Error Handling</a> (CF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/public-library-app">Library App</a> (CF)</td>
+    </tr>
+    <tr>
+      <td><strong>Training / Office Hours</strong></td>
+      <td><a href="homework/week-09.md#monday">Homework</a></td>
+      <td><a href="homework/week-09.md#tuesday">Homework</a></td>
+      <td><a href="homework/week-09.md#wednesday">Homework</a></td>
+      <td><a href="homework/week-09.md#thursday">Homework</a></td>
+      <td><a href="homework/week-09.md#friday">Homework</a></td>
+    </tr>
+  </tbody>
+</table>
 
 
 #### Week 8
