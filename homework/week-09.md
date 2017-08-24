@@ -1,6 +1,13 @@
 # Week 9
 
 The evening trainings and readings below will help you solidify work so far and/or prepare you for the next day's materials.
+
+### Thursday
+To submit on today's [pulse check](https://docs.google.com/forms/d/e/1FAIpQLSe7KpquxAEpvf5gCdfEbt4RIFbmkiTKL8i_-P_9bcvG5zxnQQ/viewform): none
+
+* Complete the [many-to-many challenges](https://github.com/SF-WDI-LABS/rails-associations/blob/master/many_to_many_challenges.md) from this morning.
+* Revisit your bog app and add 3 server-side validations to your app and add flash messages to display any errors in creating new bog creatures.
+
 <!--
 ### Monday
 To submit on today's [pulse check](https://docs.google.com/forms/d/e/1FAIpQLSe7KpquxAEpvf5gCdfEbt4RIFbmkiTKL8i_-P_9bcvG5zxnQQ/viewform): [Your go fish repo](https://github.com/SF-WDI-LABS/go-fish-card-game)
