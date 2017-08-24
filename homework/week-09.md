@@ -8,6 +8,7 @@ To submit on today's [pulse check](https://docs.google.com/forms/d/e/1FAIpQLSe7K
 * Complete the [many-to-many challenges](https://github.com/SF-WDI-LABS/rails-associations/blob/master/many_to_many_challenges.md) from this morning.
 * Complete the [additional challenges section](https://github.com/SF-WDI-LABS/rails-validations-errors#more-challenges) of the validations notes.
 *  (optional practice) Revisit your bog app and add 3 server-side validations to your app and add flash messages to display any errors in creating new bog creatures.
+* **Reminder**: project 2 resubmissions for meeting technical requirements are due tomorrow at the end of the day.
 
 <!--
 ### Monday
