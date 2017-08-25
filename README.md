@@ -5,14 +5,14 @@
 
 #### Week 10
 <table><thead>
-<tr>
-<th>August 28 - September 1</th>
-      <th> Monday </th>
-      <th> Tuesday </th>
-      <th> Wednesday </th>
-      <th> Thursday </th>
-      <th> Friday </th>
-    </tr>
+  <tr>
+    <th>August 28 - September 1</th>
+    <th> Monday </th>
+    <th> Tuesday </th>
+    <th> Wednesday </th>
+    <th> Thursday </th>
+    <th> Friday </th>
+  </tr>
   </thead>
   <tbody>
     <tr>
@@ -22,7 +22,6 @@
       <td><a href="https://github.com/SF-WDI-LABS/lightning-talks">Lightning Talks</a> (All)</td>
       <td><a href="https://github.com/SF-WDI-LABS/binary-search">Binary Search</a> (JC)</td>
       <td><a href="https://github.com/SF-WDI-LABS/bubble-sort">Bubble Sort</a> (JC)</td>
-
     </tr>
     <tr>
       <td><strong>10:30am - 12:30pm </strong></td>
