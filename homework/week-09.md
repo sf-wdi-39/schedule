@@ -16,5 +16,6 @@ To submit on today's [pulse check](https://docs.google.com/forms/d/e/1FAIpQLSe7K
 
 1. Complete the [Library App](https://github.com/sf-wdi-39/public-library-app).
 
+<!--
 2. Read the [asset pipeline rails guide](http://guides.rubyonrails.org/asset_pipeline.html), sections 1 and 2.
-
+-->
