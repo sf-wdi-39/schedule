@@ -14,7 +14,7 @@ To submit on today's [pulse check](https://docs.google.com/forms/d/e/1FAIpQLSe7K
 To submit on today's [pulse check](https://docs.google.com/forms/d/e/1FAIpQLSe7KpquxAEpvf5gCdfEbt4RIFbmkiTKL8i_-P_9bcvG5zxnQQ/viewform): [many-to-many challenges](https://github.com/SF-WDI-LABS/rails-associations/blob/master/many_to_many_challenges.md)
 
 
-1. Complete the [Library App](https://github.com/sf-wdi-39/public-library-app). You'll work on part 2 tomorrow morning.
+1. Complete the [Library App](https://github.com/sf-wdi-39/public-library-app).
 
-2. In preparation for tomorrow afternoon, read the [asset pipeline rails guide](http://guides.rubyonrails.org/asset_pipeline.html), sections 1 and 2.
+2. Read the [asset pipeline rails guide](http://guides.rubyonrails.org/asset_pipeline.html), sections 1 and 2.
 
