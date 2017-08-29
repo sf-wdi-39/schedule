@@ -19,7 +19,7 @@
       <td><strong>9:15am - 10:20am </strong></td>
       <td><a href="https://github.com/sf-wdi-labs/public-library-app">Library App Review</a> (CF)</td>
       <td><a href="https://github.com/SF-WDI-LABS/rspec">RSpec</a> (JC)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/lightning-talks">Lightning Talks</a> (All)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/ruby-gem-lightning-talks">Lightning Talks</a> (All)</td>
       <td><a href="https://github.com/SF-WDI-LABS/binary-search">Binary Search</a> (JC)</td>
       <td><a href="https://github.com/SF-WDI-LABS/bubble-sort">Bubble Sort</a> (JC)</td>
     </tr>
