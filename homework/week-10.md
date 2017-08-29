@@ -8,10 +8,13 @@ To submit on today's [pulse check](https://docs.google.com/forms/d/e/1FAIpQLSe7K
 * Work through the [asset pipeline exercises](https://github.com/sf-wdi-labs/rails-asset-pipeline/blob/master/exercises.md), including the non-bonus portions of the asset pipeline poem lab and additional challenges.
 * Come up with a [project 2 pitch](https://github.com/sf-wdi-39/project-02/blob/master/lightning-pitch.md) for a Rails CRUD app that could [fulfill these technical requirements](https://github.com/sf-wdi-39/project-02#core-technical-requirements). Spend some time sketching out your idea to include the stages of progress the application could move through from skateboard, to scooter, to bicycle, etc. Remember, you will be working on this project with a 3 or 4 person group over the course of a week. Your pitch will be brief with no slides, but we want you to hit the ground running with some more detailed ideas sketched out.
 
-<!--
-### Tuesday
-To submit on today's [pulse check](https://docs.google.com/forms/d/e/1FAIpQLSe7KpquxAEpvf5gCdfEbt4RIFbmkiTKL8i_-P_9bcvG5zxnQQ/viewform):
 
+### Tuesday
+To submit on today's [pulse check](https://docs.google.com/forms/d/e/1FAIpQLSe7KpquxAEpvf5gCdfEbt4RIFbmkiTKL8i_-P_9bcvG5zxnQQ/viewform): [asset pipeline exercises](https://github.com/sf-wdi-labs/rails-asset-pipeline/blob/master/exercises.md)
+
+* Prepare a 5 minute [lightning talk on a Ruby gem](https://github.com/SF-WDI-LABS/ruby-gem-lightning-talks)
+
+<!--
 ### Wednesday
 To submit on today's [pulse check](https://docs.google.com/forms/d/e/1FAIpQLSe7KpquxAEpvf5gCdfEbt4RIFbmkiTKL8i_-P_9bcvG5zxnQQ/viewform):
 
