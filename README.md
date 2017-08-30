@@ -35,7 +35,7 @@
       <td><strong>1:30pm - 2:50pm </strong></td>
       <td><a href="https://github.com/SF-WDI-LABS/rails-asset-pipeline">Asset Pipeline</a> (CF)</td>
       <td><a href="https://github.com/sf-wdi-39/project-02">Project 2 Pitches</a> (All)</td>
-      <td><a href="https://github.com/sf-wdi-39/project-02">Project 2 Planning </a>(CF)</td>
+      <td><a href="https://github.com/sf-wdi-39/project-02">Project 2 Planning </a>(JH)</td>
       <td><a href="https://github.com/sf-wdi-39/project-02">Project 2 </a> (CF)</td>
       <td><a href="https://github.com/sf-wdi-39/project-02">Project 2 </a> (CF)</td>
     </tr>
