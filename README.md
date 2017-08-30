@@ -3,6 +3,62 @@
 
 [Daily Pulse Check](https://docs.google.com/forms/d/e/1FAIpQLSe7KpquxAEpvf5gCdfEbt4RIFbmkiTKL8i_-P_9bcvG5zxnQQ/viewform?usp=sf_link)  |  [Weekly Pulse Check](https://docs.google.com/forms/d/e/1FAIpQLSdxQZMEgy4TwwWNGDWn5aRFEj5CEZW9a6oNOVCg69ReP3-U6w/viewform?usp=sf_link)  |  [Outcomes](https://github.com/sf-wdi-39/outcomes/wiki)  |  [Keyboard shortcuts](https://github.com/SF-WDI-LABS/how-to/blob/master/keyboard-shorcuts.md)  |  [How to...](https://github.com/SF-WDI-LABS/how-to)
 
+#### Week 11
+<table><thead>
+  <tr>
+    <th>August 28 - September 1</th>
+    <th> Monday </th>
+    <th> Tuesday </th>
+    <th> Wednesday </th>
+    <th> Thursday </th>
+    <th> Friday </th>
+  </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>9:15am - 10:20am </strong></td>
+      <td><a href="https://en.wikipedia.org/wiki/Labor_Day">Labor Day</a> (JC)</td>
+      <td><a href="https://github.com/sf-wdi-labs/merge-sort">Drill: Merge Sort</a> (JC)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/dictionary-tree">Drill: Dictionary Tree</a> (JC)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/ruby-gem-lightning-talks">Project 2 Presentations</a></td>
+      <td><a href="https://github.com/SF-WDI-LABS/binary-search">Project 2 Feedback</a></td>
+    </tr>
+    <tr>
+      <td><strong>10:30am - 12:30pm </strong></td>
+      <td><a href="https://en.wikipedia.org/wiki/Labor_Day">Labor Day</a> (JC)</td>
+      <td><a href="https://github.com/sf-wdi-39/project-02">Project 2</a> (All)</td>
+      <td><a href="https://github.com/sf-wdi-39/project-02">Project 2</a> (All)</td>
+      <td><a href="https://github.com/sf-wdi-39/project-02">Project 2 Presentations</a> (All)</td>
+      <td><a href="https://github.com/sf-wdi-39/project-02">Project 2 Feedback </a> (All)</td>
+    </tr>
+    <tr>
+      <td><strong>1:30pm - 2:50pm </strong></td>
+      <td><a href="https://en.wikipedia.org/wiki/Labor_Day">Labor Day</a> (JC)</td>
+      <td><a href="https://github.com/sf-wdi-39/project-02">Project 2</a> (All)</td>
+      <td><a href="https://github.com/sf-wdi-39/project-02">Project 2</a> (All)</td>
+      <td><a href="https://github.com/sf-wdi-39/project-02">Project 2 </a> (CF)</td>
+      <td><a href="https://github.com/sf-wdi-39/project-02">MEN Stack Review</a> (CF)</td>
+    </tr>
+    <tr>
+      <td><strong>3:00pm - 4:30pm </strong></td>
+      <td><a href="https://github.com/SF-WDI-LAB      
+      <td><a href="https://en.wikipedia.org/wiki/Labor_Day">Labor Day</a> (JC)</td>
+      <td><a href="https://github.com/sf-wdi-39/project-02">Project 2</a> (All)</td>
+      <td><a href="https://github.com/sf-wdi-39/outcomes/wiki">Outcomes </a> (TK)</td>
+      <td> <a href="https://github.com/sf-wdi-39/project-02">Project 2 </a> (CF) </td>
+      <td><a href="https://github.com/sf-wdi-39/project-02">Lightning Talk Prep</a> (CF) </td>
+    </tr>
+    <tr>
+      <td><strong>Training / Office Hours</strong></td>
+      <td><a href="homework/week-10.md#monday">Homework</a></td>
+      <td><a href="homework/week-10.md#tuesday">Homework</a></td>
+      <td><a href="homework/week-10.md#wednesday">Homework</a></td>
+      <td><a href="homework/week-10.md#thursday">Homework</a></td>
+      <td><a href="homework/week-10.md#friday">Homework</a></td>
+    </tr>
+  </tbody>
+</table>
+
 #### Week 10
 <table><thead>
   <tr>
