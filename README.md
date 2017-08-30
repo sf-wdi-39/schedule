@@ -6,7 +6,7 @@
 #### Week 11
 <table><thead>
   <tr>
-    <th>August 28 - September 1</th>
+    <th> September 4 - September 8 </th>
     <th> Monday </th>
     <th> Tuesday </th>
     <th> Wednesday </th>
@@ -20,22 +20,22 @@
       <td><a href="https://en.wikipedia.org/wiki/Labor_Day">Labor Day</a> (JC)</td>
       <td><a href="https://github.com/sf-wdi-labs/merge-sort">Drill: Merge Sort</a> (JC)</td>
       <td><a href="https://github.com/SF-WDI-LABS/dictionary-tree">Drill: Dictionary Tree</a> (JC)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/ruby-gem-lightning-talks">Project 2 Presentations</a></td>
-      <td><a href="https://github.com/SF-WDI-LABS/binary-search">Project 2 Feedback</a></td>
+      <td><a href="https://github.com/SF-WDI-LABS/ruby-gem-lightning-talks">Project 2 Presentations</a>(All)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/binary-search">Project 2 Feedback</a>(All)</td>
     </tr>
     <tr>
       <td><strong>10:30am - 12:30pm </strong></td>
       <td><a href="https://en.wikipedia.org/wiki/Labor_Day">Labor Day</a> (JC)</td>
-      <td><a href="https://github.com/sf-wdi-39/project-02">Project 2</a> (All)</td>
-      <td><a href="https://github.com/sf-wdi-39/project-02">Project 2</a> (All)</td>
+      <td><a href="https://github.com/sf-wdi-39/project-02">Project 2</a> (JC)</td>
+      <td><a href="https://github.com/sf-wdi-39/project-02">Project 2</a> (JC)</td>
       <td><a href="https://github.com/sf-wdi-39/project-02">Project 2 Presentations</a> (All)</td>
       <td><a href="https://github.com/sf-wdi-39/project-02">Project 2 Feedback </a> (All)</td>
     </tr>
     <tr>
       <td><strong>1:30pm - 2:50pm </strong></td>
       <td><a href="https://en.wikipedia.org/wiki/Labor_Day">Labor Day</a> (JC)</td>
-      <td><a href="https://github.com/sf-wdi-39/project-02">Project 2</a> (All)</td>
-      <td><a href="https://github.com/sf-wdi-39/project-02">Project 2</a> (All)</td>
+      <td><a href="https://github.com/sf-wdi-39/project-02">Project 2</a> (CF)</td>
+      <td><a href="https://github.com/sf-wdi-39/project-02">Project 2</a> (CF)</td>
       <td><a href="https://github.com/sf-wdi-39/project-02">Project 2 </a> (CF)</td>
       <td><a href="https://github.com/sf-wdi-39/project-02">MEN Stack Review</a> (CF)</td>
     </tr>
@@ -43,7 +43,7 @@
       <td><strong>3:00pm - 4:30pm </strong></td>
       <td><a href="https://github.com/SF-WDI-LAB      
       <td><a href="https://en.wikipedia.org/wiki/Labor_Day">Labor Day</a> (JC)</td>
-      <td><a href="https://github.com/sf-wdi-39/project-02">Project 2</a> (All)</td>
+      <td><a href="https://github.com/sf-wdi-39/project-02">Project 2</a> (CF)</td>
       <td><a href="https://github.com/sf-wdi-39/outcomes/wiki">Outcomes </a> (TK)</td>
       <td> <a href="https://github.com/sf-wdi-39/project-02">Project 2 </a> (CF) </td>
       <td><a href="https://github.com/sf-wdi-39/project-02">Lightning Talk Prep</a> (CF) </td>
