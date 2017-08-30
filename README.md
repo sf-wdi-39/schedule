@@ -27,25 +27,25 @@
       <td><strong>10:30am - 12:30pm </strong></td>
       <td><a href="https://github.com/sf-wdi-labs/public-library-app">Library App Review</a> (CF)</td>
       <td><a href="https://github.com/SF-WDI-LABS/testing-with-rspec">RSpec in Rails</a> and <a href="https://github.com/SF-WDI-LABS/rspec_testing_inventory">Lab</a> (JC)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/project-02">Project 2 intro</a> (All)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/project-02">Project 2 planning approvals</a> (All)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/project-02">Project 2 </a> (JC)</td>
+      <td><a href="https://github.com/sf-wdi-39/project-02">Project 2 intro</a> (All)</td>
+      <td><a href="https://github.com/sf-wdi-39/project-02">Project 2 planning approvals</a> (All)</td>
+      <td><a href="https://github.com/sf-wdi-39/project-02">Project 2 </a> (JC)</td>
     </tr>
     <tr>
       <td><strong>1:30pm - 2:50pm </strong></td>
       <td><a href="https://github.com/SF-WDI-LABS/rails-asset-pipeline">Asset Pipeline</a> (CF)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/project-02">Project 2 Pitches</a> (All)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/project-02">Project 2 Planning </a>(CF)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/project-02">Project 2 </a> (CF)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/project-02">Project 2 </a> (CF)</td>
+      <td><a href="https://github.com/sf-wdi-39/project-02">Project 2 Pitches</a> (All)</td>
+      <td><a href="https://github.com/sf-wdi-39/project-02">Project 2 Planning </a>(CF)</td>
+      <td><a href="https://github.com/sf-wdi-39/project-02">Project 2 </a> (CF)</td>
+      <td><a href="https://github.com/sf-wdi-39/project-02">Project 2 </a> (CF)</td>
     </tr>
     <tr>
       <td><strong>3:00pm - 4:30pm </strong></td>
       <td><a href="https://github.com/SF-WDI-LABS/rails-asset-pipeline">Asset Pipeline</a> (CF)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/project-02">Project 2 Pitches</a> (All)</td>
+      <td><a href="https://github.com/sf-wdi-39S/project-02">Project 2 Pitches</a> (All)</td>
       <td><a href="https://github.com/sf-wdi-39/outcomes/wiki">Outcomes </a> (TK)</td>
-      <td> <a href="https://github.com/SF-WDI-LABS/project-02">Project 2 </a> (CF) </td>
-      <td><a href="https://github.com/SF-WDI-LABS/project-02">Project 2 </a> (CF) </td>
+      <td> <a href="https://github.com/sf-wdi-39/project-02">Project 2 </a> (CF) </td>
+      <td><a href="https://github.com/sf-wdi-39/project-02">Project 2 </a> (CF) </td>
     </tr>
     <tr>
       <td><strong>Training / Office Hours</strong></td>
