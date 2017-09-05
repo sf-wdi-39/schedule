@@ -18,7 +18,7 @@
     <tr>
       <td><strong>9:15am - 10:20am </strong></td>
       <td><a href="https://en.wikipedia.org/wiki/Labor_Day">Labor Day</a> (JC)</td>
-      <td><a href="https://github.com/sf-wdi-labs/merge-sort">Drill: Merge Sort</a> (JC)</td>
+      <td><a href="https://github.com/sf-wdi-labs/merge">Drill: Merge Sort</a> (JC)</td>
       <td><a href="https://github.com/SF-WDI-LABS/dictionary-tree">Drill: Dictionary Tree</a> (JC)</td>
       <td><a href="https://github.com/SF-WDI-LABS/ruby-gem-lightning-talks">Project 2 Presentations</a>(All)</td>
       <td><a href="https://github.com/SF-WDI-LABS/binary-search">Project 2 Feedback</a>(All)</td>
