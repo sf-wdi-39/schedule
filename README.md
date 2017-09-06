@@ -36,7 +36,7 @@
       <td><a href="https://en.wikipedia.org/wiki/Labor_Day">Labor Day</a> (JC)</td>
       <td><a href="https://github.com/sf-wdi-39/project-02">Project 2</a> (CF)</td>
       <td><a href="https://github.com/sf-wdi-39/project-02">Project 2</a> (CF)</td>
-      <td><a href="https://github.com/sf-wdi-39/project-02">Project 2 </a> (CF)</td>
+      <td><a href="https://github.com/sf-wdi-39/project-02">Project 2 Wrap Up </a> (CF)</td>
       <td><a href="https://github.com/sf-wdi-39/project-02">MEN Stack Review</a> (CF)</td>
     </tr>
     <tr>
@@ -45,8 +45,8 @@
       <td><a href="https://en.wikipedia.org/wiki/Labor_Day">Labor Day</a> (JC)</td>
       <td><a href="https://github.com/sf-wdi-39/project-02">Project 2</a> (CF)</td>
       <td><a href="https://github.com/sf-wdi-39/outcomes/wiki">Outcomes </a> (TK)</td>
-      <td> <a href="https://github.com/sf-wdi-39/project-02">Project 2 </a> (CF) </td>
-      <td><a href="https://github.com/sf-wdi-39/project-02">Lightning Talk Prep</a> (CF) </td>
+      <td> <a href="https://github.com/sf-wdi-39/project-02">Project 2 Wrap Up </a> (CF) </td>
+      <td><a href="https://github.com/sf-wdi-39/lightning-talk">Lightning Talk Prep</a> (CF) </td>
     </tr>
     <tr>
       <td><strong>Training / Office Hours</strong></td>
