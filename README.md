@@ -37,7 +37,7 @@
       <td><a href="https://github.com/sf-wdi-39/project-02">Project 2</a> (CF)</td>
       <td><a href="https://github.com/sf-wdi-39/project-02">Project 2</a> (CF)</td>
       <td><a href="https://github.com/sf-wdi-39/project-02">Project 2 Wrap Up </a> (CF)</td>
-      <td><a href="https://github.com/sf-wdi-39/project-02">MEN Stack Review</a> (CF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/MEN-review">MEN Stack Review</a> (CF)</td>
     </tr>
     <tr>
       <td><strong>3:00pm - 4:30pm </strong></td>
