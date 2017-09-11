@@ -25,7 +25,7 @@
     </tr>
     <tr>
       <td><strong>10:30am - 12:30pm </strong></td>
-      <td><a href="https://github.com/sf-wdi-labs/REPLACE">React on Rails</a> (REPLACE)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/react-on-webpack-on-rails">React on Rails</a> (REPLACE)</td>
       <td><a href="https://github.com/SF-WDI-LABS/REPLACE"> Project 3 Approvals </a> (All)</td>
       <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 3</a> (REPLACE)</td>
       <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 3</a> (REPLACE)</td>
@@ -33,7 +33,7 @@
     </tr>
     <tr>
       <td><strong>1:30pm - 2:50pm </strong></td>
-      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">React on Rails</a> (REPLACE)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/react-on-webpack-on-rails">React on Rails</a> (REPLACE)</td>
       <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 3</a> (REPLACE)</td>
       <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 3</a>(REPLACE)</td>
       <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 3</a> (REPLACE)</td>
