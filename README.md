@@ -25,27 +25,27 @@
     </tr>
     <tr>
       <td><strong>10:30am - 12:30pm </strong></td>
-      <td><a href="https://github.com/SF-WDI-LABS/react-on-webpack-on-rails">React on Rails</a> (REPLACE)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/react-on-webpack-on-rails">React on Rails</a> (JC/CF)</td>
       <td><a href="https://github.com/SF-WDI-LABS/REPLACE"> Project 3 Approvals </a> (All)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 3</a> (REPLACE)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 3</a> (REPLACE)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 3</a> (JC/CF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 3</a> (JC/CF)</td>
       <td> Project 3 (REPLACE)</td>
     </tr>
     <tr>
       <td><strong>1:30pm - 2:50pm </strong></td>
-      <td><a href="https://github.com/SF-WDI-LABS/react-on-webpack-on-rails">React on Rails</a> (REPLACE)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 3</a> (REPLACE)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 3</a>(REPLACE)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 3</a> (REPLACE)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 3</a> (REPLACE)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/react-on-webpack-on-rails">React on Rails</a> (JC/CF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 3</a> (JC/CF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 3</a>(JC/CF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 3</a> (JC/CF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 3</a> (JC/CF)</td>
     </tr>
     <tr>
       <td><strong>3:00pm - 4:30pm </strong></td>
       <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 3 Intro</a> (JW)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 3</a> (REPLACE)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 3</a> (JC/CF)</td>
       <td><a href="https://github.com/sf-wdi-39/outcomes/wiki">Outcomes </a> (AW and TK)</td>
-      <td> <a href="https://github.com/SF-WDI-LABS/REPLACE">Project 3</a> (REPLACE) </td>
-      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 3</a> (REPLACE) </td>
+      <td> <a href="https://github.com/SF-WDI-LABS/REPLACE">Project 3</a> (JC/CF) </td>
+      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 3</a> (JC/CF) </td>
     </tr>
     <tr>
       <td><strong>Training / Office Hours</strong></td>
