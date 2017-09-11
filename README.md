@@ -41,7 +41,7 @@
     </tr>
     <tr>
       <td><strong>3:00pm - 4:30pm </strong></td>
-      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 3 Intro</a> (JW)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 3 Intro</a> (JC/CF)</td>
       <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Project 3</a> (JC/CF)</td>
       <td><a href="https://github.com/sf-wdi-39/outcomes/wiki">Outcomes </a> (AW and TK)</td>
       <td> <a href="https://github.com/SF-WDI-LABS/REPLACE">Project 3</a> (JC/CF) </td>
