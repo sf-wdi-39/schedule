@@ -19,7 +19,7 @@
       <td><strong>9:15am - 10:20am </strong></td>
       <td><a href="https://github.com/sf-wdi-labs/REPLACE">Lightning Talks</a> (All)</td>
       <td><a href="https://github.com/sf-wdi-39/project-03">Project 3 Approvals</a> (All) </td>
-      <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Hash Table</a> (JC)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/hash-map-lab">Hash Table</a> (JC)</td>
       <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Djikstra's Algorithm</a> (JC)</td>
       <td><a href="https://github.com/SF-WDI-LABS/REPLACE"> Interview Prep</a> (CF)</td>
     </tr>
