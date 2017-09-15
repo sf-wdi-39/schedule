@@ -21,7 +21,7 @@
       <td><a href="https://github.com/sf-wdi-39/project-03">Project 3 Approvals</a> (All) </td>
       <td><a href="https://github.com/SF-WDI-LABS/hash-map-lab">Hash Table</a> (JC)</td>
       <td><a href="https://github.com/SF-WDI-LABS/REPLACE">Djikstra's Algorithm</a> (JC)</td>
-      <td><a href="https://github.com/SF-WDI-LABS/REPLACE"> Interview Prep</a> (CF)</td>
+      <td><a href="https://github.com/SF-WDI-LABS/interview-prep"> Interview Prep</a> (CF)</td>
     </tr>
     <tr>
       <td><strong>10:30am - 12:30pm </strong></td>
